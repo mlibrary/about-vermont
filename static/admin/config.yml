@@ -1,0 +1,133 @@
+media_folder: static/assets
+public_folder: assets
+public_folder_relative: false
+collections:
+  - name: blog
+    label: Blog
+    folder: src/content/blog
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: blog }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
+  - name: conferences
+    label: Conferences
+    folder: src/content/conferences
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: conference }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: date, label: Published, widget: datetime }
+      - { name: body, label: Body, widget: markdown }
+  - name: books
+    label: Books
+    folder: src/content/books
+    create: true
+    slug: "{{authorLastname}}-{{title}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: book }
+      - { name: title, label: Title }
+      - { name: authorLastname, label: "Primary Author Last Name" }
+      - { name: author, label: "Author(s)" }
+      - { name: cover, label: Cover, widget: image }
+      - { name: description, label: Description }
+      - { name: orderOnPage, label: "Order on Front Page", widget: number }
+      - { name: readLink, label: "Read Link" }
+      - { name: buyLink, label: "Buy Link" }
+  - name: journalss
+    label: Journals
+    folder: src/content/journals
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: journal }
+      - { name: title, label: Title } 
+      - { name: cover, label: Cover, widget: image }
+      - { name: description, label: Description }
+      - { name: orderOnPage, label: "Order on Front Page", widget: number }
+      - { name: readLink, label: "Read Link" }
+      - { name: buyLink, label: "Buy Link" }
+  - name: pages
+    label: Pages
+    files:
+      - file: src/content/home.md
+        name: home
+        label: Home
+        editor:
+          preview: false
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: taglineSection
+            label: "Tag Line Section"
+            widget: object
+            fields:
+              - { name: text, label: Text, widget: markdown }
+          - name: newsletterSection
+            label: "Newsletter Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: url, label: "Newsletter URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: fundraiserSection
+            label: "Fundraiser Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+              - { name: url, label: "Fundraiser URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: catalogSection
+            label: "Catalog Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: catalogImage, label: "Catalog Image", widget: image }
+              - { name: catalogPdf, label: "Catalog PDF", widget: markdown }
+          - name: mapSection
+            label: "Map Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: description, label: Description }
+      - file: "src/content/about.md"
+        name: about
+        label: About
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: About }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/authors.md"
+        name: authors
+        label: Authors
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/currentauthors.md"
+        name: currentAuthors
+        label: "Current Authors"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
+          - { name: title, label: Authors }
+          - { name: body, label: Body, widget: markdown }    
+      - file: "src/content/blog.md"
+        name: "blog page"
+        label: "Blog Page"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: blog-page }
+          - { name: title, label: Blog }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
+          - { name: body, label: Body, widget: markdown }

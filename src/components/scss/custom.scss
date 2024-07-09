@@ -1,0 +1,419 @@
+// colors and theming
+$theme-colors: (
+  "primary": #311A4D,
+  "secondary": #5D3C85,
+  "muted": #EAEAEA
+);
+
+
+@import "../bootstrap/scss/bootstrap";
+
+// typography
+@mixin brandon {
+  font-family: brandon-grotesque, sans-serif;
+}
+
+.brandon {
+  @include brandon;
+}
+
+@mixin abril {
+  font-family: abril-text, serif;
+}
+
+.abril {
+  @include abril;
+}
+
+body {
+  @include brandon;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    @include abril;
+    font-weight: 500;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3, 
+h4,
+h5 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* p {
+  max-width: 70%;
+} 
+
+ul {
+  max-width: 66%;
+} */
+
+// colors
+$amherst-brand-color: #311A4D;
+$amherst-accent-color: #6837A3;
+$amherst-light-blue: #64dfeb;
+$amherst-green: #458246;
+$amherst-dark-grey: #505061;
+$amherst-light-grey: #9BA1A7;
+$amherst-black-80: #342f2e;
+
+:focus {
+  outline: 3px solid #00AFEC;
+  outline-offset: 0;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
+}
+
+
+// links
+p {
+  a {
+  text-decoration: underline;
+  }
+}
+
+// buttons
+.btn {
+  @include brandon;
+}
+
+
+// navigation
+.navbar {
+  @include brandon;
+
+  min-height: 6rem;
+
+  .navbar-brand h1 {
+    font-size: 1.6rem;
+    margin: initial;
+    display: inline;
+    font-weight: 400;
+  }
+
+  .navbar-brand-logo {
+    vertical-align: middle;
+  }
+
+}
+
+// page
+.page-container {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+// cards
+
+.card {
+  border-radius: 0;
+
+  picture,
+  source {
+    line-height: 0;
+  };
+}
+
+
+// home
+.books-container {
+  padding: 3rem 0;
+
+  .book-card-list {
+    justify-content: space-evenly;
+  }
+
+  .book-card-covers-only-list {
+    
+  }
+  
+  // home - books
+  .book-card {
+    max-width: 540px;
+
+    h3 {
+      font-size: 1.25rem;
+      margin-top: 0;
+    }
+
+    .card-img {
+      border-radius: 0;
+      /* max-height: 300px; */
+    }
+
+    p {
+      max-width: 100%;
+    }
+
+    .card-text {
+      font-size: .9rem;
+    }
+
+    .cover-only-img {
+      min-width: 200px;
+    }
+  }
+}
+
+// home - tagline and catalog container
+.tagline-catalog-container {
+  background-color: $amherst-brand-color;
+  padding: 4rem 0;
+  border-top: 1px solid rgba(0,0,0,.125);
+
+  .tagline {
+    @include abril;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-left: 1.5em;
+  }
+}
+
+// home - catalog
+.catalog-wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  figure {
+    display: flex;
+    justify-content: center;
+  }
+
+}
+.catalog-image {
+  width: 95px;
+}
+
+// home - for authors/for libraries, impact report
+.author-library-container {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  border-top: 1px solid rgba(0,0,0,.125);
+
+  .author-container, .newsletter-container, .library-container {
+    margin: 15px 0;
+  }
+
+}
+
+.video-impact-container {
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  background-color: #f8f9fa;
+}
+
+.news-events-container, .video-impact-container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  h2 {
+    margin-bottom: 1rem;
+  }
+}
+
+// video
+.video-embed {
+  margin-bottom: 1rem;
+}
+
+// news and events on homepage and individual pages
+.post-image {
+  max-height: 500px;
+  overflow: hidden;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.news {
+  p {
+    line-height: 1.7;
+  }
+}
+
+.news-item .main {
+  @include abril;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.summary {
+
+    p {
+      font-size: 1.5rem;
+      margin-bottom: 1em;
+      @include brandon;
+      line-height: 1.5;
+    }
+
+    time {
+      font-size: .9em;
+      margin-top: .2em !important;
+    }
+}
+
+.blog-card-container {
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .card:hover {
+    border: 1px solid $amherst-brand-color;
+  }
+
+  .card-image {
+    max-height: 300px;
+    overflow: hidden;
+  }
+}
+
+.event-card-container {
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
+// join
+
+.join-us {
+  padding-top: 0;
+
+  img {
+    margin-bottom: 2rem;
+  }
+
+}
+
+.join-us h2 {
+  margin-top: 1rem;
+}
+
+.jumbotron {
+  background-color: $amherst-brand-color;
+  margin-bottom: 4rem;
+}
+
+.featurette-divider {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.join-jumbo {
+  h1, p {
+    color: #f8f9fa;
+  }
+  p.join-tag {
+    color: $amherst-accent-color;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+}
+
+.intro {
+  text-transform: uppercase;
+  font-size: 1.4rem;
+}
+
+thead {
+  background-color: $amherst-brand-color;
+  color: #f8f9fa;
+}
+
+.join-h3 {
+  text-transform: uppercase;
+  font-size: 1.4rem;
+}
+
+ol.join {
+  font-size: 1.25rem;
+}
+
+.cta-bottom {
+  padding-top: 4em;
+}
+
+// impact
+.map {
+  height: 60%;
+}
+
+.map-container a:hover {
+  text-decoration: none;
+  img {
+    filter: grayscale(80%);
+    filter: contrast(50%);
+  }
+}
+
+p.social {
+  padding-top: .4em;
+  a {
+    padding-right: 0.75em;
+    svg {
+      display: inline-block;
+      vertical-align: middle;
+      fill: $amherst-brand-color;
+    }
+  }
+  a:first-of-type {
+    padding-left: 1em;
+  }
+}
+
+// footer
+.footer {
+  background-color: $amherst-brand-color;
+  border-top: 1px solid rgba(0,0,0,.125);
+  padding: 3rem 0;
+
+  .fulcrum {
+    vertical-align: baseline;
+  }
+
+  .block {
+    display: block;
+  }
+
+  p.social {
+    padding-top: .4em;
+    a {
+      padding-right: 0.75em;
+      svg {
+        display: inline-block;
+        vertical-align: middle;
+        fill: $amherst-light-blue;
+      }
+    }
+    a:first-of-type {
+      padding-left: 0;
+    }
+  }
+
+  .footer-head {
+    font-size: 1.25rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+  }
+
+  li {
+    padding-left: 1rem;
+    text-indent:-1rem;
+  }
+
+}
+
+
