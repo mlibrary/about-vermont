@@ -7,10 +7,9 @@ import {graphql, Link} from "gatsby"
 import BookList from "../components/books/bookList"
 import JournalList from "../components/journals/journalList"
 import Tagline from "../components/tagline"
-import Fundraiser from "../components/fundraiser"
-import BlogList from "../components/blog/blogList"
+import CallToAction from "../components/callToAction"
+import NewsList from "../components/news/newsList"
 import ConferenceList from "../components/conferences/conferenceList"
-import MapImage from "../components/mapImage"
 
 export const IndexQuery = graphql`
 query {
@@ -18,23 +17,24 @@ query {
     frontmatter {
       taglineSection {
         text
+        buttonLabel
+        buttonUrl
       }
-      newsletterSection {
-        heading
+      firstCallToActionSection {
         description
-        url
+        buttonUrl
         buttonLabel
       }
-      fundraiserSection {
-        heading
+      secondCallToActionSection {
         description
-        url
+        buttonUrl
         buttonLabel
       }
-      mapSection {
-        heading
+      thirdCallToActionSection {
         description
-      }      
+        buttonUrl
+        buttonLabel
+      }
     }
   }
   books: allMarkdownRemark (
@@ -89,9 +89,9 @@ query {
       }
     }
   }
-  blog: allMarkdownRemark (
+  news: allMarkdownRemark (
     filter: {
-      frontmatter: { templateKey: { eq: "blog" } }
+      frontmatter: { templateKey: { eq: "news" } }
     },
     sort: {
       fields: frontmatter___date,
@@ -144,11 +144,12 @@ query {
 
 const IndexPage = ({data}) => {
   const tagline = data.home.frontmatter.taglineSection
-  const fundraiser = data.home.frontmatter.fundraiserSection
-  const map = data.home.frontmatter.mapSection
+  const firstCallToAction = data.home.frontmatter.firstCallToActionSection
+  const secondCallToAction = data.home.frontmatter.secondCallToActionSection
+  const thirdCallToAction = data.home.frontmatter.thirdCallToActionSection
   const books = data.books.edges
   const journals = data.journals.edges
-  const blog = data.blog.edges
+  const news = data.news.edges
   const conferences = data.conferences.edges
 
   return (
@@ -181,30 +182,22 @@ const IndexPage = ({data}) => {
                 <Tagline text={tagline.text} />
               </div>
               <div className="cta-tagline col-md-2">
-                <a className="btn btn-lg btn-primary text-dark" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
+                <a className="btn btn-lg btn-primary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
               </div>
             </div>
           </div>
         </section>
-        <section className="author-library-container">
+        <section className="cta-container">
           <div className="container">
             <div className="row">
-              <div className="author-container col-sm">
-                <div className="container">
-                  <div className="row">
-                    <div className="col-md-6">
-                      <p>Interested in publishing your next book with us?</p>
-                    </div>
-                    <div className="col-md-6">
-                      <a className="btn btn-secondary" href="/authors">Learn More</a>
-                    </div>
-                  </div>
-                </div>
+              <div className="cta-1-container col-sm">
+                <CallToAction callToAction={firstCallToAction} />
               </div>
-              <div className="newsletter-container col-sm">                  
+              <div className="cta-2-container col-sm">
+                <CallToAction callToAction={secondCallToAction} />
               </div>
-              <div className="library-container col-sm">
-                   <Fundraiser fundraiser={fundraiser} />
+              <div className="cta-3-container col-sm">
+                <CallToAction callToAction={thirdCallToAction} />
               </div>
             </div>
           </div>
@@ -212,11 +205,11 @@ const IndexPage = ({data}) => {
         <section className="news-events-container container">
           <div className="row justify-content-around">
             <div className="news-container col-lg-5">
-              <BlogList blog={blog} />
+              <NewsList news={news} />
               <div className="row mt-4">
                 <div className="col-md-12">
                   <p className="text-right">
-                    <Link to="/blog">Display all posts</Link>
+                    <Link to="/news">Display all posts</Link>
                   </p>
                 </div>
               </div>

@@ -2,13 +2,13 @@ media_folder: static/assets
 public_folder: assets
 public_folder_relative: false
 collections:
-  - name: blog
-    label: Blog
-    folder: src/content/blog
+  - name: news
+    label: News
+    folder: src/content/news
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: blog }
+      - { name: templateKey, label: "Template Key", widget: hidden, default: news }
       - { name: title, label: Title }
       - { name: summary, label: Summary }
       - { name: date, label: Published, widget: datetime }
@@ -39,7 +39,7 @@ collections:
       - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
       - { name: buyLink, label: "Buy Link" }
-  - name: journalss
+  - name: journals
     label: Journals
     folder: src/content/journals
     create: true
@@ -67,35 +67,27 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
-          - name: newsletterSection
-            label: "Newsletter Section"
+          - name: firstCallToActionSection
+            label: "First Call to Action Section"
             widget: object
             fields:
-              - { name: heading, label: Heading }
               - { name: description, label: Description }
-              - { name: url, label: "Newsletter URL" }
+              - { name: buttonUrl, label: "Button URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: fundraiserSection
-            label: "Fundraiser Section"
+          - name: secondCallToActionSection
+            label: "Second Call to Action Section"
             widget: object
             fields:
-              - { name: heading, label: Heading }
               - { name: description, label: Description }
-              - { name: url, label: "Fundraiser URL" }
+              - { name: buttonUrl, label: "Button URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: catalogSection
-            label: "Catalog Section"
+          - name: thirdCallToActionSection
+            label: "Third Call to Action Section"
             widget: object
             fields:
-              - { name: heading, label: Heading }
-              - { name: catalogImage, label: "Catalog Image", widget: image }
-              - { name: catalogPdf, label: "Catalog PDF", widget: markdown }
-          - name: mapSection
-            label: "Map Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
               - { name: description, label: Description }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
       - file: "src/content/about.md"
         name: about
         label: About
@@ -103,27 +95,20 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/authors.md"
-        name: authors
-        label: Authors
+      - file: "src/content/book-proposals.md"
+        name: bookProposals
+        label: "Book Proposals"
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
-          - { name: title, label: Authors }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: books-page }
+          - { name: title, label: Book Proposals }
           - { name: body, label: Body, widget: markdown }
-      - file: "src/content/currentauthors.md"
-        name: currentAuthors
-        label: "Current Authors"
+      - file: "src/content/journal-proposals.md"
+        name: journalProposals
+        label: "Journal Proposals"
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: authors-page }
-          - { name: title, label: Authors }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: journals-page }
+          - { name: title, label: Journal Proposals }
           - { name: body, label: Body, widget: markdown }    
-      - file: "src/content/blog.md"
-        name: "blog page"
-        label: "Blog Page"
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: blog-page }
-          - { name: title, label: Blog }
-          - { name: body, label: Body, widget: markdown }
       - file: "src/content/contact.md"
         name: contact
         label: Contact

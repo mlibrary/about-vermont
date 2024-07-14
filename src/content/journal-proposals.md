@@ -1,6 +1,6 @@
 ---
-templateKey: authors-page
-title: Publish With Us
+templateKey: journals-page
+title: Journal Proposals
 ---
 ## Areas of Interest
 

@@ -11,6 +11,4 @@ description: >-
   engagement with current realities.
 orderOnPage: 2
 readLink: 'https://doi.org/10.3998/mpub.12225223'
-buyLink: >-
-  https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208227&PRESS=amherst
 ---

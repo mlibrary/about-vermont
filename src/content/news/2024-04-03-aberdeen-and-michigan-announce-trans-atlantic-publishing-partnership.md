@@ -1,5 +1,5 @@
 ---
-templateKey: blog
+templateKey: news
 title: UVM Press and Michigan announce publishing partnership
 summary: The University of Vermont Press and the University of Michigan have come
   together to launch a new trans-Atlantic publishing partnership that will

@@ -1,41 +1,53 @@
 // colors and theming
 $theme-colors: (
-  "primary": #311A4D,
-  "secondary": #5D3C85,
-  "muted": #EAEAEA
+  "primary": #00313C,
+  "secondary": #B9C7C2,
+  "muted": #616970
 );
 
 
 @import "../bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
 // typography
-@mixin brandon {
-  font-family: brandon-grotesque, sans-serif;
+@mixin lora {
+  font-family: "Lora", serif;
 }
 
-.brandon {
-  @include brandon;
+.lora {
+  @include lora;
 }
 
-@mixin abril {
-  font-family: abril-text, serif;
+@mixin roboto {
+  font-family: "Roboto", sans-serif;
 }
 
-.abril {
-  @include abril;
+.roboto {
+  @include roboto;
 }
 
 body {
-  @include brandon;
+  @include lora;
 }
+
+// colors
+$vermont-brand-color: #154734;
+$vermont-accent-color: #00313C;
+$vermont-light-blue: #64dfeb;
+$vermont-link: #489FDF;
+$vermont-border: #707070;
+$vermont-dark-grey: #333333;
+$vermont-light-grey: #F7F7F7;
+$vermont-black-80: #26292C;
 
 h1,
 h2,
 h3,
 h4,
 h5 {
-    @include abril;
-    font-weight: 500;
+    @include roboto;
+    font-weight: 600;
+    color: $vermont-black-80;
 }
 
 h1 {
@@ -62,17 +74,10 @@ ul {
   max-width: 66%;
 } */
 
-// colors
-$amherst-brand-color: #311A4D;
-$amherst-accent-color: #6837A3;
-$amherst-light-blue: #64dfeb;
-$amherst-green: #458246;
-$amherst-dark-grey: #505061;
-$amherst-light-grey: #9BA1A7;
-$amherst-black-80: #342f2e;
+
 
 :focus {
-  outline: 3px solid #00AFEC;
+  outline: 3px solid #FFD100;
   outline-offset: 0;
   -webkit-transition: outline .05s ease-out;
   -o-transition: outline .05s ease-out;
@@ -84,37 +89,55 @@ $amherst-black-80: #342f2e;
 p {
   a {
   text-decoration: underline;
+  color: $vermont-link;
   }
 }
 
 // buttons
 .btn {
-  @include brandon;
+  @include roboto;
+  font-weight: 500;
+}
+
+.btn-secondary {
+  color: $vermont-brand-color;
 }
 
 
-// navigation
-.navbar {
-  @include brandon;
+// header and navigation
 
-  min-height: 6rem;
+.header-nav-container {
+  background-color: $vermont-light-grey;
+  border-bottom: 2px solid $vermont-border;
+}
 
-  .navbar-brand h1 {
-    font-size: 1.6rem;
-    margin: initial;
-    display: inline;
-    font-weight: 400;
+.navbar-dark {
+  @include roboto;
+}
+
+.nav-scroller {
+  @include roboto;
+  text-transform: uppercase;
+
+  .dropdown-menu {
+    border-radius: 0;
   }
+}
 
-  .navbar-brand-logo {
+.navbar-brand {
+  span.logo {
+    @include lora;
+    color: $vermont-brand-color;
+    text-transform: uppercase;
+    font-size: 2.5rem;
     vertical-align: middle;
+    padding-left: 8px;
   }
-
 }
 
 // page
 .page-container {
-  padding-top: 5rem;
+  padding-top: 2rem;
   padding-bottom: 5rem;
 }
 
@@ -129,22 +152,26 @@ p {
   };
 }
 
+.card-subtitle.text-muted,
+.published .text-muted {
+  color: #616970 !important;
+}
+
+
+
 
 // home
 .books-container {
-  padding: 3rem 0;
+  padding: 1rem;
 
   .book-card-list {
     justify-content: space-evenly;
-  }
-
-  .book-card-covers-only-list {
-    
   }
   
   // home - books
   .book-card {
     max-width: 540px;
+    background-color: $vermont-light-grey;
 
     h3 {
       font-size: 1.25rem;
@@ -154,6 +181,12 @@ p {
     .card-img {
       border-radius: 0;
       /* max-height: 300px; */
+    }
+
+    .card-subtitle {
+      @include roboto;
+      font-weight: 400;
+      margin-bottom: .6em;
     }
 
     p {
@@ -170,18 +203,39 @@ p {
   }
 }
 
+.books-container:nth-child(2) {
+  padding-top: 1rem;
+}
+
 // home - tagline and catalog container
-.tagline-catalog-container {
-  background-color: $amherst-brand-color;
+.tagline-container {
+  position: relative;
   padding: 4rem 0;
   border-top: 1px solid rgba(0,0,0,.125);
+}
 
-  .tagline {
-    @include abril;
-    font-weight: bold;
-    font-size: 1.6rem;
-    margin-left: 1.5em;
-  }
+.tagline-container:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+  background-image: url("/assets/vermont-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 0;
+}
+
+.tagline {
+  @include lora;
+  font-weight: 400;
+  font-size: 1.6rem;
+  margin-left: 1.5em;
+  position: relative;
+  color: $vermont-accent-color;
 }
 
 // home - catalog
@@ -200,11 +254,12 @@ p {
   width: 95px;
 }
 
-// home - for authors/for libraries, impact report
-.author-library-container {
+// Home page call to action buttons and containers
+.cta-container {
   padding: 1.5rem 0;
   border-bottom: 1px solid rgba(0,0,0,.125);
-  border-top: 1px solid rgba(0,0,0,.125);
+  background-color: $vermont-accent-color;
+  color: #fff;
 
   .author-container, .newsletter-container, .library-container {
     margin: 15px 0;
@@ -212,12 +267,8 @@ p {
 
 }
 
-.video-impact-container {
-  border-bottom: 1px solid rgba(0,0,0,.125);
-  background-color: #f8f9fa;
-}
 
-.news-events-container, .video-impact-container {
+.news-events-container {
   padding-top: 3rem;
   padding-bottom: 3rem;
   h2 {
@@ -225,10 +276,14 @@ p {
   }
 }
 
-// video
-.video-embed {
-  margin-bottom: 1rem;
+.blog-card-container a, .blog-card-container .card {
+  background-color: $vermont-light-grey;
+
+  .published {
+    @include roboto;
+  }
 }
+
 
 // news and events on homepage and individual pages
 .post-image {
@@ -245,7 +300,7 @@ p {
 }
 
 .news-item .main {
-  @include abril;
+  @include lora;
   line-height: 1.7;
   font-size: 1.1rem;
 }
@@ -255,7 +310,7 @@ p {
     p {
       font-size: 1.5rem;
       margin-bottom: 1em;
-      @include brandon;
+      @include roboto;
       line-height: 1.5;
     }
 
@@ -272,7 +327,7 @@ p {
   }
 
   .card:hover {
-    border: 1px solid $amherst-brand-color;
+    border: 1px solid $vermont-brand-color;
   }
 
   .card-image {
@@ -287,98 +342,25 @@ p {
   }
 }
 
-// join
-
-.join-us {
-  padding-top: 0;
-
-  img {
-    margin-bottom: 2rem;
-  }
-
-}
-
-.join-us h2 {
-  margin-top: 1rem;
-}
-
-.jumbotron {
-  background-color: $amherst-brand-color;
-  margin-bottom: 4rem;
-}
-
-.featurette-divider {
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-}
-
-.join-jumbo {
-  h1, p {
-    color: #f8f9fa;
-  }
-  p.join-tag {
-    color: $amherst-accent-color;
-    font-size: 1.5rem;
-    margin-bottom: 0;
-  }
-}
-
-.intro {
-  text-transform: uppercase;
-  font-size: 1.4rem;
-}
-
-thead {
-  background-color: $amherst-brand-color;
-  color: #f8f9fa;
-}
-
-.join-h3 {
-  text-transform: uppercase;
-  font-size: 1.4rem;
-}
-
-ol.join {
-  font-size: 1.25rem;
-}
-
-.cta-bottom {
-  padding-top: 4em;
-}
-
-// impact
-.map {
-  height: 60%;
-}
-
-.map-container a:hover {
-  text-decoration: none;
-  img {
-    filter: grayscale(80%);
-    filter: contrast(50%);
-  }
-}
-
-p.social {
-  padding-top: .4em;
-  a {
-    padding-right: 0.75em;
-    svg {
-      display: inline-block;
-      vertical-align: middle;
-      fill: $amherst-brand-color;
-    }
-  }
-  a:first-of-type {
-    padding-left: 1em;
-  }
-}
-
 // footer
 .footer {
-  background-color: $amherst-brand-color;
+  background-color: $vermont-brand-color;
   border-top: 1px solid rgba(0,0,0,.125);
-  padding: 3rem 0;
+  padding: 3rem 0 1rem;
+  @include roboto;
+
+  a.logo-link {
+    text-decoration: none;
+  }
+
+  span.logo {
+    @include lora;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    vertical-align: middle;
+    padding-left: 8px;
+  }
 
   .fulcrum {
     vertical-align: baseline;
@@ -388,6 +370,10 @@ p.social {
     display: block;
   }
 
+  .contact a {
+    margin-bottom: 1em;
+  }
+
   p.social {
     padding-top: .4em;
     a {
@@ -395,7 +381,7 @@ p.social {
       svg {
         display: inline-block;
         vertical-align: middle;
-        fill: $amherst-light-blue;
+        fill: $vermont-light-blue;
       }
     }
     a:first-of-type {
@@ -407,6 +393,10 @@ p.social {
     font-size: 1.25rem;
     margin-bottom: .5rem;
     font-weight: 500;
+  }
+
+  ul.second-nav {
+    font-size: 20px;
   }
 
   li {

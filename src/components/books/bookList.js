@@ -4,7 +4,7 @@ import BookCard from "./bookCard"
 const BookList = ({books}) => {
 
   return (
-    <div className="container">
+    <div>
       <h2 className="sr-only">Recent Books</h2>
       <div className="row book-card-list">
         {

@@ -12,8 +12,7 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <script async src={withPrefix('jquery-3.4.1.min.js')} type="text/javascript" />
-        <link rel="stylesheet" href="https://use.typekit.net/oxd2vmw.css"></link>
+        <script async src={withPrefix('jquery-3.4.1.min.js')} type="text/javascript" />        
         <script
           dangerouslySetInnerHTML={{
             __html: `

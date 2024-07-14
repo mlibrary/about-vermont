@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Layout from '../components/layout'
 import {graphql} from "gatsby"
 
-const Blog = ({data}) => {
+const News = ({data}) => {
   const { html } = data.markdownRemark
   const { title, summary, date } = data.markdownRemark.frontmatter
 
@@ -43,4 +43,4 @@ query ($id: String!) {
 }
 `
 
-export default Blog
+export default News

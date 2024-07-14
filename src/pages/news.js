@@ -2,16 +2,14 @@ import React from "react"
 import {graphql} from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
-import Title from "../components/title"
-import BlogList from "../components/blog/blogList"
+import NewsList from "../components/news/newsList"
 
-const Blog = ({data}) => {
-  const heading = data.heading
-  const blog = data.blogs.edges
+const News = ({data}) => {
+  const news = data.allMarkdownRemark.edges
 
   return (
     <Layout>
-      <SEO title="Blog" />
+      <SEO title="News" />
       <div className="container page-container">
         <div className="row text-right">
           <div className="col-md-12">
@@ -24,13 +22,12 @@ const Blog = ({data}) => {
         </div>
         <div className="row justify-content-md-center">
           <div className="col-md-10">
-            <Title title={heading.frontmatter.title} />
-            <div dangerouslySetInnerHTML={{ __html: heading.html }} />
+            <h1>News</h1>
           </div>
         </div>
         <div className="row justify-content-md-center">
           <div className="col-md-10">
-            <BlogList blog={blog} />
+            <NewsList news={news} />
           </div>
         </div>
       </div>
@@ -40,15 +37,9 @@ const Blog = ({data}) => {
 
 export const query = graphql`
 query {
-  heading: markdownRemark (frontmatter: {templateKey: { eq: "blog-page" }}) {
-    html
-    frontmatter{
-      title
-    }
-  },
-  blogs: allMarkdownRemark (
+ allMarkdownRemark (
     filter: {
-      frontmatter: { templateKey: { eq: "blog" } }
+      frontmatter: { templateKey: { eq: "news" } }
     },
     sort: {
       fields: frontmatter___date,
@@ -73,4 +64,4 @@ query {
 }
 `
 
-export default Blog
+export default News

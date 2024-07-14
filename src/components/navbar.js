@@ -10,17 +10,17 @@ const Navbar = () => {
   return (
     <div className="header-nav-container navbar-dark">    
       <header>
-        <div className="container py-3">
+        <div className="container py-2">
           <div className="row">
             <div className="col-md-8">
-              <a href="/" className="navbar-brand">
-                <img src="/assets/VermontLogo.svg" alt="" height="75px" width="auto" className="navbar-brand-logo"/>
+              <a href="/" className="navbar-brand lora">
+                <img src="/assets/VermontLogo-Green.svg" alt="" height="60px" width="auto" className="navbar-brand-logo"/> <span className="logo">Press</span>
               </a>              
             </div>
           </div>
         </div>       
       </header>
-      <div className="nav-scroller">
+      <div className="nav-scroller py-1">
         <div className="container">
           <nav className="nav d-flex justify-content-between collapse">
             <Link to="/about" className="nav-link text-dark">
@@ -33,8 +33,8 @@ const Navbar = () => {
                 Publish with us
               </a>
               <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a className="dropdown-item" href="/proposal-books">Book Proposals</a>                
-                <a className="dropdown-item" href="/proposal-journals">Journals Proposals</a>
+                <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
+                <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
               </div>
             </div>
             <a className="nav-link text-dark" href="/contact">Contact</a>
