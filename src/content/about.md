@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About University of Vermont Press
+title: About the University of Vermont Press
 ---
 <p class="lead">Fully funded by the university, the UVM Press uses a diamond open-access model to ensure free readership, free authorship, and immediate online, global access to all its published titles.</p>
 
