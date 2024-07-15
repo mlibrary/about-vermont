@@ -27,7 +27,7 @@ const Navbar = () => {
               About
             </Link>
             <a className="nav-link text-dark" href="https://fulcrum.org/vermont">Books</a>
-            <a className="nav-link text-dark" href="https://journals.press.vermont.edu/journals">Journals</a>
+            <a className="nav-link text-dark" href="https://journals.uvm.edu/">Journals</a>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Publish with us

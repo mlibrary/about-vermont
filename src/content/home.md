@@ -3,7 +3,9 @@ templateKey: home-page
 taglineSection:
   buttonLabel: About UVM Press
   buttonUrl: /about
-  text: "We publish digital research and scholarship with no barriers to ensure immediate global access. Our innovative models of scholarly communication align with UVM’s land-grant mission, values, and research strengths: the health of our environment and societies."
+  text: "Free for readers. Free for authors. Free for collaborators.
+  
+  Fully funded by the university, the UVM Press uses a diamond open-access model to ensure free readership, free authorship, and immediate online, global access to all its published titles."
 firstCallToActionSection:
   description: We collaborate with scholars to share their knowledge in new, equitable, and sustainable ways
   buttonLabel: Publish With Us

@@ -6,7 +6,7 @@ const JournalList = ({journals}) => {
   return (
     <div>
       <h2 className="sr-only">Recent Journals</h2>
-      <div className="row book-card-list">
+      <div className="row book-card-list journals">
         {
           journals.map(({node}) => {
             if (Array(1,2).includes(node.frontmatter.orderOnPage)) {
