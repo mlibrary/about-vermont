@@ -27,12 +27,13 @@ const Navbar = () => {
               About
             </Link>
             <a className="nav-link text-dark" href="https://fulcrum.org/vermont">Books</a>
-            <a className="nav-link text-dark" href="https://journals.uvm.edu/">Journals</a>
+            <a className="nav-link text-dark" href="https://jeed.pubpub.org/">Journals</a>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Publish with us
               </a>
               <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                <a className="dropdown-item" href="/publish-with-us">Publish with UVM Press</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
               </div>
