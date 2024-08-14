@@ -7,7 +7,7 @@ taglineSection:
 firstCallToActionSection:
   description: We collaborate with scholars to share knowledge in new, equitable, and sustainable ways.
   buttonLabel: Publish With Us
-  buttonUrl: /publish-with-us
+  buttonUrl: /book-proposals
 secondCallToActionSection:
   description: We publish scholarship that promotes a healthy environment and healthy societies.
   buttonLabel: Our Mission

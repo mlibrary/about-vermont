@@ -46,8 +46,8 @@ const Footer = () => {
             <li><a href="/about" className="text-light">About</a></li>
               <li><a href="/news" className="text-light">News</a></li>
               <li><a href="/conferences" className="text-light">Conferences and Events</a></li>
-              <li><a href="#" className="text-light">Publish with Us</a></li> 
-              <li><a href="#" className="text-light">Support UVM Press</a></li>     
+              <li><a href="/book-proposals" className="text-light">Publish with Us</a></li> 
+              <li><a href="/support-uvm-press" className="text-light">Support UVM Press</a></li>     
             </ul>
           </div>
         </div>
