@@ -1,16 +1,11 @@
 ---
 templateKey: book
-title: Public Scholarship in Literary Studies
-authorLastname: Arteaga
-author: Edited by Rachel Arteaga and Rosemary Erickson Johnsen
-cover: assets/johnsen_arteaga_front_final.jpg
+title: In the Land of the Wild Onion
+authorLastname: Fish
+author: Charles Fish
+cover: assets/9798894080116.jpg
 description: >-
-  In this new volume, editors Rachel Arteaga and Rosemary Johnsen bring together
-  accomplished public scholars in essays demonstrating that literary criticism
-  has the potential not only to explain, but to actively change our terms of
-  engagement with current realities.
+  Charles Fish sets off on a journey down Vermont's Winooski River in order to rediscover the river valley of his youth and to consider the power of place in all our lives.
 orderOnPage: 1
-readLink: 'https://doi.org/10.3998/mpub.12225223'
-buyLink: >-
-  https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781943208227&PRESS=amherst
+readLink: 'https://www.fulcrum.org/concern/monographs/dn39x447n?locale=en'
 ---

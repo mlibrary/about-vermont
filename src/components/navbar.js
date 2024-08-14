@@ -30,14 +30,14 @@ const Navbar = () => {
             <a className="nav-link text-dark" href="https://jeed.pubpub.org/">Journals</a>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Publish with us
+                Publish With Us
               </a>
               <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a className="dropdown-item" href="/publish-with-us">Publish with UVM Press</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
               </div>
             </div>
+            <a className="nav-link text-dark" href="/support-uvm-press">Support</a>
             <a className="nav-link text-dark" href="/contact">Contact</a>
           </nav>
         </div>

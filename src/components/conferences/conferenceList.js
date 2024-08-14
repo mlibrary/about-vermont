@@ -4,8 +4,8 @@ import ConferenceCard from "./conferenceCard"
 const ConferenceList = ({conferences, cardStyle}) => {
   return (
     <section className="event-card-list">
-      <h1>Conferences</h1>
-      <p className="scala-sans">Amherst College Press representatives will be attending the following conferences. <a href="mailto:acpress@amherst.edu">Email us</a> if you'd like to meet up.</p>
+      <h1>Conferences and Events</h1>
+      <p className="scala-sans">Look for UVM Press representatives at these upcoming events:</p>
       <ul className="list-unstyled">
       {
         conferences.map(({node}) => {

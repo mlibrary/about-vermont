@@ -1,12 +1,10 @@
 ---
 templateKey: book
-title: "Abiayalan Pluriverses: Bridging Indigenous Studies and Hispanic Studies"
-authorLastname: Chacon
-author: Gloria E. Chacón, Juan G. Sánchez Martínez and Lauren Beck
-cover: assets/9781943208746.jpg
-description: "Abiayalan Pluriverses: Bridging Indigenous Studies and Hispanic
-  Studies looks for pathways that better connect two often siloed disciplines."
+title: "Blacks on the Border"
+authorLastname: Whitfield
+author: Harvey Amani Whitfield
+cover: assets/9798894080376.jpg
+description: "Whitfield’s study reconstructs the lives and history of a sizeable but neglected group of African Americans by placing their history within the framework of free black communities in New England and Nova Scotia during the nineteenth century."
 orderOnPage: 2
-readLink: https://doi.org/10.3998/mpub.14369000
-buyLink: https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=978-1-943208-74-6&PRESS=amherst
+readLink: https://www.fulcrum.org/concern/monographs/s1784p731?locale=en
 ---

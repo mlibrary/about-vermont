@@ -23,8 +23,12 @@ const Footer = () => {
         <div className="row justify-content-between">
           <div className="col-md-4 contact">
             <a href="/" className="block logo-link"><img src="/assets/VermontLogo.svg" alt="" height="60" width="auto" /><span className="logo">Press</span></a>
-            <small className="mt-3 text-light d-block">Burlington, VT</small>
-            <small className="mb-2 text-light d-block"><a href="press@uvm.edu" className="text-light">press@uvm.edu</a></small>            
+            <small className="mt-3 text-light d-block"><i>A division of University of Vermont Libraries</i><br />
+            University of Vermont<br/>
+            Howe Library | 538 Main St.<br />
+            Burlington, VT 05405<br />
+            802-656-2020</small>
+            <small className="mb-2 text-light d-block"><a href="mailto:press@uvm.edu" className="text-light">press@uvm.edu</a></small>            
           </div>                    
           <div className="col-md-3">
             <span className="font-weight-bold">Friends of the UVM Press</span>
@@ -41,8 +45,9 @@ const Footer = () => {
             <ul className="list-unstyled second-nav">
             <li><a href="/about" className="text-light">About</a></li>
               <li><a href="/news" className="text-light">News</a></li>
-              <li><a href="/conferences" className="text-light">Conferences</a></li>
-              <li><a href="/reports" className="text-light">Reports</a></li>              
+              <li><a href="/conferences" className="text-light">Conferences and Events</a></li>
+              <li><a href="#" className="text-light">Publish with Us</a></li> 
+              <li><a href="#" className="text-light">Support UVM Press</a></li>     
             </ul>
           </div>
         </div>

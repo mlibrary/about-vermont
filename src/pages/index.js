@@ -57,7 +57,6 @@ query {
           author
           description
           readLink
-          buyLink
           orderOnPage
         }
       }
@@ -83,7 +82,6 @@ query {
           author
           description
           readLink
-          buyLink
           orderOnPage
         }
       }
@@ -155,12 +153,19 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
+      <section className="top-tagline">
+        <div className="container d-flex">
+          <div className="col-md-12 d-flex justify-content-center">
+            <span className="">Free for readers. Free for authors. Free for collaborators.</span>
+          </div>
+        </div>
+      </section>
       <section className="books-container container">
           <BookList books={books} />
           <div className="row mt-4">
             <div className="col-md-12">
               <p className="text-right">
-                <a href="https://fulcrum.org/vermont">Browse all our books</a>
+                <a href="https://fulcrum.org/vermont">Browse our books</a>
               </p>
             </div>
           </div>

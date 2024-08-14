@@ -2,20 +2,64 @@
 templateKey: journals-page
 title: Journal Proposals
 ---
-## Areas of Interest
+## UVM Press Diamond Open-Access Journal Publishing
+The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open-access platform. We provide consultation, strategy, and production services, as well as access to editorial management and publishing platforms, to our journal publishing partners.
 
-ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
+__Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:__
 
-Our publishing program is aligned with the ethos of the liberal arts and deeply committed to accessibility. All our books are fully peer reviewed, expertly copyedited, and well designed; everything we publish is made available both as open-access, freely downloadable ebooks and pdf files as well as affordable paperbacks . Amherst College covers the cost of the open-access edition, so there are no fees or charges to authors or their institutions.
+* The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
+* The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open-access publishing expertise, production platforms, digital publishing, and preservation services for the journal’s content.
 
-Amherst College Press partners with [Fulcrum](https://www.fulcrum.org/), the digital publishing platform of Michigan Publishing Services, to produce our books. Fulcrum treats all forms of digital objects equally, which means we have the ability to integrate things like images, video, visualizations, and sound into ebooks in interesting ways. Michigan Publishing Services assures that our titles are discoverable by, and accessible to, the widest possible audience, while being sustainable into the digital future.
+__The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.__ Potential society partners must agree to these additional requirements for the lifetime of the publication:
 
-## For Prospective Authors
+* Publish all journal content under a diamond open-access model, without article processing fees, advertising, subscription fees, or membership requirements.
+* Copyright work through Creative Commons licenses, which allow free sharing of content within the rules of the chosen license.
+* Utilize only the publishing platforms and resources provided by UVM Press.
+* Engage in a fair, rigorous peer review process, including identifying and communicating with expert reviewers for each manuscript.
+* Publish born-digital materials that are readable online and accessible to users with a wide range of abilities, with an option for authors and readers to download and print articles.
+* Appoint and sustain a diverse editorial board, a subset of which makes up the journal subcommittee, to complete the work of developing, launching, and maintaining continuous publication of the journal. 
+* Maintain a rolling publication schedule.
 
-See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. For guidance on proposing and developing edited collections, please see our [edited collections information sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing).  If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
+UVM Press journal partnerships begin with a [proposal process](#proposal-process) and are formalized with a Memorandum of Understanding signed by representatives of the society and of the UVM Press. Affiliation with the University of Vermont is not a requirement for proposals to or publishing with the UVM Press.
 
-Here you can find our [ACP reader report form for proposals ](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)and [ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing). We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [anti-racist scholarly reviewing practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
+## The Benefits of Diamond Open-Access Journal Publishing with the UVM Press
+By partnering with the UVM Press, scholars and societies become active participants in the international open-access movement to make information sharing faster, more equitable, and more sustainable. Societies and journals also benefit directly in these ways:
 
-Have questions? Write to us at <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
+* No start-up or maintenance costs for standard services
+* Experienced consultation, management, and production support
+* Friendly, accessible online submission and peer review workflows hosted on leading open-source scholarly publishing platforms
+* Personalized training and technical support for editorial board members and peer reviewers
+* Positioning as active participants and supporters of the diamond open-access publishing model
+* Association with UVM’s reputation for credibility and academic/research excellence
+* Supporting experiential learning opportunities for UVM student interns
 
-You can also find more useful information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
+Additionally, [recent research](https://link.springer.com/article/10.1007/s11192-023-04894-0) indicates that open access articles receive more frequent—and more diverse—citations than articles published behind paywalls.
+
+__UVM Press publishing partners do not pay for publishing support services that fall within the scope of a partnership agreement.__ Services outside the scope of this agreement include contracted services provided by vendors outside UVM, such as work by designers and creative professionals, migration of print or online journal content, and custom coding or
+open-source platform personalization. Other outside services may include language translation services or non-English-language editing. Costs for these services are borne by the journal.
+
+## The UVM Press Publishing Team
+The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open-access publishing expertise.
+
+The editorial director of our Journals Division collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
+
+The editorial director’s services also include:
+
+* Advising editorial boards on site structure and boilerplate content
+* Writing, copyediting, and maintaining site content and downloadable article template files
+* Arranging and conducting strategy and policy development sessions
+* Developing workflows and attending regular editorial board meetings
+* Providing technology trainings for editors who manage online submissions and peer reviews, and offering ongoing support sessions for authors, reviewers, and associate editors 
+* Serving as traffic manager for each submission, collaborating with the editor(s) in chief throughout peer review and, if applicable, the production and publication process
+* Mentoring UVM student interns and overseeing their work
+* Managing relationships with outside designers and creative professionals
+* Completing indexing and archiving tasks, including generating article DOIs and applying for the journal’s ISSN upon eligibility
+
+UVM Press can recommend outside designers and creative professionals on a paid, case-by-case basis to create specialized content, including photography, illustration, and multimedia. 
+
+Outside, platform-specific professionals can be available on a paid, case-by-case basis for extensive content migration.
+
+<h2 id="proposal-process">Proposing a Journal Partnership</h2>
+<p>Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee. Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU starts the journal start-up or migration process.</p>
+
+<p>For more information or to request a proposal form, please email <a href="mailto:press@uvm.edu">press@uvm.edu</a>.</p>

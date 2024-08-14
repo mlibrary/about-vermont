@@ -1,21 +1,42 @@
 ---
 templateKey: books-page
-title: Book Proposals
+title: Book Proposal Guidelines
 ---
-## Areas of Interest
+The proposal is an important part of the publishing process. Please use this opportunity to think carefully about your project. Consider, for example, your intended audience, how your manuscript builds on previously published work in your field, which university presses have published books similar to your manuscript within the last five years, and why you think your work is right for the UVM Press. 
 
-ACP publishes titles in art history and visual studies; digital and game studies; Latin American studies; literary and media studies; music and sound studies; and Russian, East European, and Eurasian Studies. We also have deep interests in activist studies, environmental and energy humanities, multilingualism and translation, public and community humanities, and all forms of justice-oriented scholarship and methodology.
+Please use the following prompts to write your proposal. When you are finished, email your proposal to Tom Krause at [twkrause@uvm.edu](mailto:twkrause@uvm.edu).
 
-Our publishing program is aligned with the ethos of the liberal arts and deeply committed to accessibility. All our books are fully peer reviewed, expertly copyedited, and well designed; everything we publish is made available both as open-access, freely downloadable ebooks and pdf files as well as affordable paperbacks . Amherst College covers the cost of the open-access edition, so there are no fees or charges to authors or their institutions.
+We look forward to reviewing your submission. 
 
-Amherst College Press partners with [Fulcrum](https://www.fulcrum.org/), the digital publishing platform of Michigan Publishing Services, to produce our books. Fulcrum treats all forms of digital objects equally, which means we have the ability to integrate things like images, video, visualizations, and sound into ebooks in interesting ways. Michigan Publishing Services assures that our titles are discoverable by, and accessible to, the widest possible audience, while being sustainable into the digital future.
+## Title and Subtitle
+When coming up with a title, please consider the keywords most identifiable with your work. Think about the words or phrases potential readers will use for Amazon or Google searches. 
 
-## For Prospective Authors
+Title: 
+Subtitle (if applicable):
 
-See our [individual project proposal template](https://docs.google.com/document/d/1jGNlpD6nT7ZlVTs6tNwyNB164AExiIQ0lPHhWM8usLs/edit?usp=sharing) to get a sense of what we look for when considering projects. For guidance on proposing and developing edited collections, please see our [edited collections information sheet](https://docs.google.com/document/d/1ktceIkrdLfzg9Xo3pr16bYH6EHfEv3B3jBFNLIHNac4/edit?usp=sharing).  If you are interested in proposing a series, please review our [series proposal guidelines](https://docs.google.com/document/d/1j3W09SHS3fj0VKvC8WiilYmpg3P0w3lecp8liRZSAvw/edit?usp=sharing). When you’re ready, submit a proposal to <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
+## Author/Editor Bios
+Please include a short bio and CV for each author or editor. If you are submitting a contributed volume, please provide a brief bio for each contributor. 
 
-Here you can find our [ACP reader report form for proposals ](https://docs.google.com/document/d/1qPhWyABNPNcDT_-V7tI8_gIyUeptHdFixrELk81FLFY/edit?usp=sharing)and [ACP reader report form for full manuscripts](https://docs.google.com/document/d/1Pn1IV67WIyZkOiz3Nc-vulowq5bwCbjfyya5NBrh_Hg/edit?usp=sharing). We undertook an iterative, collaborative process to create these forms, working with Amherst College Press interns to review, analyze, and synthesize current reader report forms from other university presses. We also sought to to engage in and incorporate anti-racist practices as articulated in this [anti-racist scholarly reviewing practices](https://docs.google.com/document/d/1lZmZqeNNnYfYgmTKSbL2ijYbR4OMovv6A-bDwJRnwx8/edit).
+## Why UVM Press
+In two or three sentences, please answer why your work is right for UVM Press and our open-access publishing model. 
 
-Have questions? Write to us at <a href="mailto:acpress@amherst.edu">acpress@amherst.edu</a>.
+## Abstract 
+Write a 250- to 300-word abstract summarizing your manuscript. 
 
-You can also find more useful information about scholarly publishing at [Ask UP](https://ask.up.hcommons.org/), a website maintained by the Association of University Presses that answers "basic and not-so-basic questions about how to publish and promote scholarship."
+## Audience
+Identify the potential audiences for this work. Be as specific and realistic as possible regarding disciplinary background and types of readers (your peers, professionals in practice, graduate students, undergraduates, general readers, etc.). 
+
+## Comparable Titles
+If possible, please identify at least three titles similar to your proposed manuscript that have been published by a university press since 2019. If you can identify more than three titles, please do so. Please list the title, author/editor, year of publication, and publisher. 
+
+## Manuscript Outline
+Provide additional details about your manuscript here. Include a word count (including front matter, notes, and the bibliography) an image count, and a description of any line art, graphs, charts, etc., you intend to submit with the manuscript. Please also provide a two- or three-sentence overview of each chapter, including the introduction and conclusion. If you have a table of contents, please include that as well. 
+
+## Conferences and Journals
+If applicable, please list two or more conferences sponsored by scholarly or professional organizations at which you have presented your work or might present your work. Similarly, please list two or more scholarly journals that might review or publicize your book. 
+
+## Submission Date
+Provide a date you expect to submit the completed manuscript to UVM Press.
+
+## Submission Instructions
+Email your finished proposal to Tom Krause at [twkrause@uvm.edu](mailto:twkrause@uvm.edu).

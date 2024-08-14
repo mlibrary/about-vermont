@@ -11,9 +11,9 @@ const Journal = ({cover, journal}) => {
 
   return (
     <div className="card mb-3 book-card journal">
-      <div className="row no-gutters">
+      <div className="row">
         <div className="col-md-4">
-          <img src={cover} alt={`cover of ${title}`} className="card-img" />
+          <img src={cover} alt={`cover of ${title}`} className="card-img m-3" />
         </div>
         <div className="col-md-8">
           <div className="card-body">

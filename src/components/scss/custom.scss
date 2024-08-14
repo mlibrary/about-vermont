@@ -99,6 +99,10 @@ p {
   font-weight: 500;
 }
 
+p a.btn {
+  text-decoration: none;
+}
+
 .btn-secondary {
   color: $vermont-brand-color;
 }
@@ -117,7 +121,6 @@ p {
 
 .nav-scroller {
   @include roboto;
-  text-transform: uppercase;
 
   .dropdown-menu {
     border-radius: 0;
@@ -158,9 +161,12 @@ p {
 }
 
 
-
-
 // home
+.top-tagline {
+  font-size: 1.5rem;
+  padding-bottom: 1rem;
+}
+
 .books-container {
   padding: 1rem;
 
@@ -180,7 +186,7 @@ p {
 
     .card-img {
       border-radius: 0;
-      /* max-height: 300px; */
+      max-height: 300px;
     }
 
     .card-subtitle {
@@ -409,6 +415,12 @@ p {
     text-indent:-1rem;
   }
 
+}
+
+@media screen and (max-width: 767px) {
+  .card-img {
+    width: auto;
+  }
 }
 
 
