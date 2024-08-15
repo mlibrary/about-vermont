@@ -23,9 +23,6 @@ const Navbar = () => {
       <div className="nav-scroller py-1">
         <div className="container">
           <nav className="nav d-flex justify-content-between collapse">
-            <Link to="/about" className="nav-link text-dark">
-              About
-            </Link>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 About
