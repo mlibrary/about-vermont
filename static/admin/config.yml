@@ -95,6 +95,13 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/journals.md"
+        name: journals
+        label: "Read UVM Journals"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: journals-page }
+          - { name: title, label: Read UVM Journals }
+          - { name: body, label: Body, widget: markdown }
       - file: "src/content/book-proposals.md"
         name: bookProposals
         label: "Book Proposals"
@@ -106,7 +113,7 @@ collections:
         name: journalProposals
         label: "Journal Proposals"
         fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: journals-page }
+          - { name: templateKey, label: "Template Key", widget: hidden, default: journalProposals-page }
           - { name: title, label: Journal Proposals }
           - { name: body, label: Body, widget: markdown }    
       - file: "src/content/contact.md"

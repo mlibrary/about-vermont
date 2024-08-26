@@ -33,7 +33,7 @@ const Navbar = () => {
               </div>
             </div>
             <a className="nav-link text-dark" href="https://fulcrum.org/vermont">Books</a>
-            <a className="nav-link text-dark" href="https://jeed.pubpub.org/">Journals</a>
+            <a className="nav-link text-dark" href="/journals/">Journals</a>
             <div className="dropdown show">
               <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Publish With Us

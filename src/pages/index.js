@@ -175,7 +175,7 @@ const IndexPage = ({data}) => {
           <div className="row mt-4">
             <div className="col-md-12">
               <p className="text-right">
-                <a href="https://jeed.pubpub.org/">Browse our journals</a>
+                <a href="/journals">Browse our journals</a>
               </p>
             </div>
           </div>

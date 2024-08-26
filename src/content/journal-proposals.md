@@ -1,5 +1,5 @@
 ---
-templateKey: journals-page
+templateKey: journalProposals-page
 title: Journal Proposals
 ---
 ## UVM Press Diamond Open-Access Journal Publishing
