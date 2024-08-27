@@ -25,7 +25,7 @@ if (process.env.BRANCH === "preview") {
       backend: {
         name: 'github',
         repo: 'mlibrary/about-vermont',
-        branch: 'master'
+        branch: 'main'
       }
     }
   });
