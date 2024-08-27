@@ -123,3 +123,10 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
           - { name: title, label: Contact }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/support-uvm-press.md"
+        name: support
+        label: Support
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: support-page }
+          - { name: title, label: Support }
+          - { name: body, label: Body, widget: markdown }
