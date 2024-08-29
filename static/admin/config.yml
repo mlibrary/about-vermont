@@ -38,7 +38,7 @@ collections:
       - { name: description, label: Description }
       - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
-      - { name: buyLink, label: "Buy Link" }
+      - { name: buyLink, label: "Buy Link", required: false }
   - name: journals
     label: Journals
     folder: src/content/journals
@@ -51,7 +51,7 @@ collections:
       - { name: description, label: Description }
       - { name: orderOnPage, label: "Order on Front Page", widget: number }
       - { name: readLink, label: "Read Link" }
-      - { name: buyLink, label: "Buy Link" }
+      - { name: buyLink, label: "Buy Link", required: false }
   - name: pages
     label: Pages
     files:
