@@ -14,7 +14,7 @@ In today’s competitive academic marketplace, funding the publication of resear
 
 ## Your Gift Helps Us Make Research Freely Available to All
 
-When considering a donation to the University of Vermont, please keep the UVM Press in mind. Every donation matters. Even small amounts go a long way toward providing our press and our authors with the tools we need to make world-class research freely available to all, serving the university’s mission of empowering people and planet.
+When considering a donation to the University of Vermont, please keep the UVM Press in mind. Every donation matters. Even small amounts go a long way toward providing our press and our authors the tools we need to make world-class research freely available to all, serving the university’s mission of empowering people and planet.
 
 <p><a class="btn btn-secondary btn-lg mb-3" href="https://go.uvm.edu/giveuvmpress">Donate</a><br>
 This button opens a secure online donation form hosted by the UVM Foundation, which will ensure that your gift is directed to the UVM Press.</p>
