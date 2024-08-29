@@ -39,6 +39,7 @@ const Navbar = () => {
                 Publish With Us
               </a>
               <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <a className="dropdown-item" href="/publish-with-us">Publishing Partnerships</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
               </div>

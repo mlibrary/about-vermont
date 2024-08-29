@@ -130,3 +130,10 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: support-page }
           - { name: title, label: Support }
           - { name: body, label: Body, widget: markdown }
+      - file: "src/content/publish-with-us.md"
+        name: publish
+        label: Publishing Partnerships
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: publish-page }
+          - { name: title, label: Support }
+          - { name: body, label: Body, widget: markdown }
