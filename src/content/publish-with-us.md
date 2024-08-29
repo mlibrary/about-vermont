@@ -2,7 +2,7 @@
 templateKey: publish-page
 title: Publishing Partnerships
 ---
-The UVM Press collaborates with leading scholars and scholarly societies to develop innovative publishing projects. Affiliation with the University of Vermont is not a prerequisite for publishing with the UVM Press.
+The University of Vermont Press collaborates with leading scholars and scholarly societies to develop innovative publishing projects. Affiliation with the University of Vermont is not a prerequisite for publishing with the UVM Press.
 
 We partner with scholarly societies and their representatives to establish new, diamond open access journals or to transition existing journals to a diamond open access platform. We also partner with scholars at all career stages to develop books and book series in their areas of expertise.
 
