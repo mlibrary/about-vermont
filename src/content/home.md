@@ -4,7 +4,7 @@ taglineSection:
   buttonLabel: About UVM Press
   buttonUrl: /about
   text: Fully funded by the University of Vermont, the UVM Press uses a diamond
-    open-access model to ensure free readership, free authorship, and immediate
+    open access model to ensure free readership, free authorship, and immediate
     online, global access to all its published titles.
 firstCallToActionSection:
   description: We collaborate with scholars to share knowledge in new, equitable,
