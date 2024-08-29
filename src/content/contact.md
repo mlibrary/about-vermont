@@ -28,5 +28,5 @@ Studying: Environmental Engineering
 Marie Spaeth<br>
 Studying: English and Writing
 
-Media inquiries: [Email the UVM Press](mailto:press@uvm.edu) <br>
+Media inquiries: [Email the UVM Press].(mailto:press@uvm.edu) <br>
 Donation inquiries: [Email Kate AbdelFatah](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press), our UVM Press liaison in the UVM Foundation.
