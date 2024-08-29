@@ -6,4 +6,4 @@ The UVM Press is proud to partner with scholars and societies to publish peer-re
 
 ## [Journal of Ecological Engineering Design](https://jeed.pubpub.org)
 
-The diamond open-access journal of the American Ecological Engineering Society, *JEED* aims to expand understanding of the science and design of ecosystem processes, functions, and services and to amplify the role of design as scholarship in academic and professional communities.
+The diamond open access journal of the American Ecological Engineering Society, *JEED* aims to expand understanding of the science and design of ecosystem processes, functions, and services and to amplify the role of design as scholarship in academic and professional communities.
