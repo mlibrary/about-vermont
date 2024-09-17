@@ -22,10 +22,10 @@ A professional writer-editor, project manager, and creative consultant, Aimee Di
 #### Academic Year 2024 – 2025
 
 **Caroline Deir**\
-Studying: Biological Sciences and Wildlife Biology
+Caroline Deir is a sophomore at the University of Vermont studying biological sciences and wildlife biology on the pre-medical track. She was born and raised in Charlotte, North Carolina, where she developed a passion for designing, editing, and publishing through her high school’s yearbook organization. This passion grew during her freshman year of college, when she worked for Josten’s, a manufacturer of high school and college memorabilia, helping proof high school yearbook editorials. In her free time, Caroline enjoys mountain biking, climbing, hot yoga, and losing in intramural hockey. She is excited to intern with UVM Press this semester and cannot wait to see how the organization grows.
 
 **Rosali Hernandez**\
-Studying: Environmental Engineering
+A first-year environmental engineering major from Houston, Texas, Rosali Hernandez aims to pursue a career in conservation and social justice that improves the wellbeing of others. By taking advanced science and language credits in high school, she found her interest in environmental preservation and civil equity that is globally impactful. Rosali is also a passionate artist who spends her free time creating multimedia art, attending live music shows, writing poetry, and playing guitar, bass, and drums. Through working with the UVM Press, she hopes to contribute to its mission and commit her efforts to making knowledge free and accessible to everyone.
 
 **Marie Spaeth**\
 Studying: English and Writing
