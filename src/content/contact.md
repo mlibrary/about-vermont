@@ -28,7 +28,7 @@ Caroline Deir is a sophomore at the University of Vermont studying biological sc
 A first-year environmental engineering major from Houston, Texas, Rosali Hernandez aims to pursue a career in conservation and social justice that improves the wellbeing of others. By taking advanced science and language credits in high school, she found her interest in environmental preservation and civil equity that is globally impactful. Rosali is also a passionate artist who spends her free time creating multimedia art, attending live music shows, writing poetry, and playing guitar, bass, and drums. Through working with the UVM Press, she hopes to contribute to its mission and commit her efforts to making knowledge free and accessible to everyone.
 
 **Marie Spaeth**\
-Studying: English and Writing
+Marie Spaeth is a sophomore from Stamford, Connecticut, pursuing a degree in English with a minor in writing. She writes for *The Vermont Cynic*, UVM’s student-run newspaper, covering student life and everything Burlington has to offer. Marie also sings with Hit Paws, one of UVM’s gender-inclusive a cappella groups that performs on and off campus. Marie enjoys creative writing, reading, singing, and spending time with friends. In the winter, you’ll catch her skiing down the slopes of every mountain in Vermont!
 
 Media inquiries: [Email the UVM Press](mailto:press@uvm.edu).\
 Donation inquiries: [Email Kate AbdelFatah](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press), our UVM Press liaison in the UVM Foundation.
