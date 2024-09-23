@@ -4,7 +4,7 @@ title: Contact Us
 ---
 The UVM Press is staffed by two editorial directors, each of whom provide consultation, strategy, editorial, and production services customized for each publishing project. They are supported by UVM student interns who are learning about careers in writing, editing, and publishing.
 
-Contact an editorial director to discuss your idea.
+[Contact an editorial director](mailto:press@uvm.edu) to discuss your idea.
 
 ## Books Division
 
@@ -30,5 +30,6 @@ A first-year environmental engineering major from Houston, Texas, Rosali Hernand
 **Marie Spaeth**\
 Marie Spaeth is a sophomore from Stamford, Connecticut, pursuing a degree in English with a minor in writing. She writes for *The Vermont Cynic*, UVM’s student-run newspaper, covering student life and everything Burlington has to offer. Marie also sings with Hit Paws, one of UVM’s gender-inclusive a cappella groups that performs on and off campus. Marie enjoys creative writing, reading, singing, and spending time with friends. In the winter, you’ll catch her skiing down the slopes of every mountain in Vermont!
 
-Media inquiries: [Email the UVM Press](mailto:press@uvm.edu).\
-Donation inquiries: [Email Kate AbdelFatah](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press), our UVM Press liaison in the UVM Foundation.
+**Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
+
+**Donation inquiries:** [Email Kate AbdelFatah](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press), our UVM Press liaison in the UVM Foundation.
