@@ -14,7 +14,6 @@ The UVM Press editorial team acquires and develops research for publication, whi
 
 Thomas W. Krause, UVM Press editorial director for books, is excited to collaborate with a proven industry leader. “Michigan Publishing Services has the combined technical and professional expertise that will help the UVM Press grow and thrive,” said Krause.  “We’re pleased to partner with an organization that shares our mission: to make high quality, free open access scholarship a more visible and viable option for scholars, students, and all readers.”
 
-\
 The UVM Press publishes peer-reviewed book and journal titles that explore topics related to healthy environments and healthy communities in alignment with the university’s strategic imperatives. Its first publication was the *Journal of Ecological Engineering Design*, the journal of the American Ecological Engineering Society. Forthcoming UVM Press books include monographs and contributed volumes in the fields of public and planetary health, religion, and New England history. Authors working on book projects in these areas, and scholarly societies interested in establishing new or migrating existing peer-reviewed journals, are encouraged to contact the UVM Press to discuss publication.
 
 For more information, visit press.uvm.edu.
