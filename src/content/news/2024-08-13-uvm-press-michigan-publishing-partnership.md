@@ -16,4 +16,4 @@ Thomas W. Krause, UVM Press editorial director for books, is excited to collabor
 
 The UVM Press publishes peer-reviewed book and journal titles that explore topics related to healthy environments and healthy communities in alignment with the university’s strategic imperatives. Its first publication was the *Journal of Ecological Engineering Design*, the journal of the American Ecological Engineering Society. Forthcoming UVM Press books include monographs and contributed volumes in the fields of public and planetary health, religion, and New England history. Authors working on book projects in these areas, and scholarly societies interested in establishing new or migrating existing peer-reviewed journals, are encouraged to contact the UVM Press to discuss publication.
 
-For more information, visit press.uvm.edu.
+For more information, visit [press.uvm.edu](press.uvm.edu).
