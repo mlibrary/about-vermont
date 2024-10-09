@@ -10,4 +10,4 @@ The diamond open access journal of the American Ecological Engineering Society, 
 
 ### [J﻿ournal of Black Military Studies (forthcoming)](https://press.uvm.edu/news/2024-10-09-uvm-press-and-society-for-black-military-studies-announce-journal-publishing-partnership/)
 
-The open access journal of the Journal of Black Military Studies, an international, multi-disciplinary, peer-reviewed journal of the Society for Black Military Studies, will encapsulate the military experience (broadly defined) within and throughout the Black Diaspora. It will showcase innovative, dynamic approaches to analyzing, preserving, and disseminating histories, heritages, arts, politics, discourse, and literature of war and military participation within the Black Diaspora.
+The international, multi-disciplinary journal of the Society for Black Military Studies, *JBMS* will encapsulate the military experience (broadly defined) within and throughout the Black Diaspora. It will showcase innovative, dynamic approaches to analyzing, preserving, and disseminating histories, heritages, arts, politics, discourse, and literature of war and military participation within the Black Diaspora.
