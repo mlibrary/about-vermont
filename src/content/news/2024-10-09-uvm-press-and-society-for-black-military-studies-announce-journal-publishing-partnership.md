@@ -7,6 +7,10 @@ summary: The University of Vermont (UVM) Press and the Society for Black
   Military Studies.
 date: 2024-10-09T18:25:39.379Z
 ---
+![The UVM Press logo in green.](assets/uvmpress_horiz-g-3-x-1.5.png)
+
+![The Society for Black Military Studies logo in red and black.](assets/sbms-color-logo.png)
+
 BURLINGTON, Vt. (October 9, 2024)—The University of Vermont (UVM) Press and the Society for Black Military Studies have partnered to establish the forthcoming Journal of Black Military Studies, an international, multi-disciplinary, peer-reviewed journal that encapsulates the military experience (broadly defined) within and throughout the Black Diaspora.
 
 The Journal of Black Military Studies will showcase innovative, dynamic approaches to analyzing, preserving, and disseminating histories, heritages, arts, politics, discourse, and literature of war and military participation within the Black Diaspora. It will be published digitally under a diamond open access model, enabling authors to publish accepted work without publication fees, and readers to access all journal content without paywalls.
