@@ -33,12 +33,15 @@ const Footer = () => {
           <div className="col-md-3">
             <span className="font-weight-bold">Friends of the UVM Press</span>
             <ul className="list-unstyled">
-            <li><a href="https://www.uvm.edu/president" className="text-light">Office of the President</a></li>
+              <li><a href="https://www.uvm.edu/president" className="text-light">Office of the President</a></li>
               <li><a href="https://www.uvm.edu/provost" className="text-light">Office of the Provost</a></li>
               <li><a href="https://www.uvm.edu/ovpr" className="text-light">Office of the Vice President for Research</a></li>
+              <li><a href="https://www.uvmfoundation.org" className="text-light">UVM Foundation</a></li>
               <li><a href="https://library.uvm.edu/" className="text-light">University of Vermont Libraries</a></li>
               <li><a href="https://www.ecoeng.org/" className="text-light">American Ecological Engineering Society</a></li>
+              <li><a href="https://www.blackmilitarystudies.com/" className="text-light">Society for Black Military Studies</a></li>
               <li><a href="https://services.publishing.umich.edu/" className="text-light">Michigan Publishing Services</a></li>
+              <li><a href="https://janeway.systems/index" className="text-light">Janeway</a></li>
             </ul>
           </div>
           <div className="col-md-3">
