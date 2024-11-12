@@ -34,7 +34,7 @@ body {
 $vermont-brand-color: #154734;
 $vermont-accent-color: #00313C;
 $vermont-light-blue: #64dfeb;
-$vermont-link: #489FDF;
+$vermont-link: #2077B6;
 $vermont-border: #707070;
 $vermont-dark-grey: #333333;
 $vermont-light-grey: #F7F7F7;
@@ -119,8 +119,9 @@ p a.btn {
   @include roboto;
 }
 
-.nav-scroller {
+.navbar-nav {
   @include roboto;
+  padding-top: 3em;
 
   .dropdown-menu {
     border-radius: 0;

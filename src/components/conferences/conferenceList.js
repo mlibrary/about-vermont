@@ -3,8 +3,7 @@ import ConferenceCard from "./conferenceCard"
 
 const ConferenceList = ({conferences, cardStyle}) => {
   return (
-    <section className="event-card-list">
-      <h1>Conferences and Events</h1>
+    <section className="event-card-list">      
       <p className="scala-sans">Look for UVM Press representatives at these upcoming events:</p>
       <ul className="list-unstyled">
       {

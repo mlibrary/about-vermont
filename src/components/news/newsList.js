@@ -3,8 +3,7 @@ import NewsCard from "./newsCard"
 
 const NewsList = ({news, cardStyle}) => {
   return (
-    <section className="blog-card-list">
-    <h1>News</h1>
+    <section className="blog-card-list">    
     {
       news.map(({node}) => {
         return <NewsCard key={node.id} singleNews={node} cardStyle={cardStyle}/>

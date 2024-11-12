@@ -22,7 +22,7 @@ const Footer = () => {
       <div className="container">
         <div className="row justify-content-between">
           <div className="col-md-4 contact">
-            <a href="/" className="block logo-link"><img src="/assets/VermontLogo.svg" alt="" height="60" width="auto" /><span className="logo">Press</span></a>
+            <a href="/" className="block logo-link"><img src="/assets/UVMPRESS_Horizontal_W.svg" alt="University of Vermont Press" height="auto" width="250" /></a>
             <small className="mt-3 text-light d-block"><i>A division of University of Vermont Libraries</i><br />
             University of Vermont<br/>
             Howe Library | 538 Main St.<br />

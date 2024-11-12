@@ -210,6 +210,7 @@ const IndexPage = ({data}) => {
         <section className="news-events-container container">
           <div className="row justify-content-around">
             <div className="news-container col-lg-5">
+              <h2>News</h2>
               <NewsList news={news} />
               <div className="row mt-4">
                 <div className="col-md-12">
@@ -220,6 +221,7 @@ const IndexPage = ({data}) => {
               </div>
             </div>
             <div className="events-container col-lg-5">
+              <h2>Conferences and Events</h2>
               <ConferenceList conferences={conferences} />
               <div className="row mt-4">
                 <div className="col-md-12">

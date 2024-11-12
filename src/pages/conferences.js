@@ -11,6 +11,7 @@ const Conferences = ({data}) => {
     <Layout>
       <SEO title="Conferences" />
       <div className="container page-container">
+      <h1>Conferences and Events</h1>
         <div className="row justify-content-md-center">
           <div className="col-md-10">
             <ConferenceList conferences={conferences} />
