@@ -61,7 +61,8 @@ UVM Press can recommend outside designers and creative professionals on a paid, 
 
 Outside, platform-specific professionals can be available on a paid, case-by-case basis for extensive content migration.
 
-<h2 id="proposal-process">Proposing a Journal Partnership</h2>
-<p>Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee. Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.</p>
+## Proposing a Journal Partnership
 
-<p>For more information or to request a proposal form, please email <a href="mailto:press@uvm.edu">press@uvm.edu</a>.</p>
+Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee. Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.
+
+For more information or to request a proposal form, please email [Aimee Diehl](mailto:aimee.diehl@uvm.edu).
