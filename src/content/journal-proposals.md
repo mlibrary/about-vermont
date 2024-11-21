@@ -4,18 +4,18 @@ title: Journal Proposals
 ---
 ## UVM Press Diamond Open Access Journal Publishing
 
-The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access platform. We provide consultation, strategy, and production services, as well as access to editorial management and publishing platforms, to our journal publishing partners.
+The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access platform. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
 **Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
 
 * The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
-* The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, production platforms, digital publishing, and preservation services for the journal’s content.
+* The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, a submission and peer review platform, digital publishing, and preservation services for the journal’s content.
 
 **The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.** Potential society partners must agree to these additional requirements for the lifetime of the publication:
 
 * Publish all journal content under a diamond open access model, without article processing fees, advertising, subscription fees, or membership requirements.
 * Copyright work through Creative Commons licenses, which allow free sharing of content within the rules of the chosen license.
-* Utilize only the publishing platforms and resources provided by UVM Press.
+* Utilize only the publishing platform and resources provided by UVM Press.
 * Engage in a fair, rigorous peer review process, including identifying and communicating with expert reviewers for each manuscript.
 * Publish born-digital materials that are readable online and accessible to users with a wide range of abilities, with an option for authors and readers to download and print articles.
 * Appoint and sustain a diverse editorial board, a subset of which makes up the journal subcommittee, to complete the work of developing, launching, and maintaining continuous publication of the journal. 
@@ -29,11 +29,11 @@ By partnering with the UVM Press, scholars and societies become active participa
 
 * No start-up or maintenance costs for standard services
 * Experienced consultation, management, and production support
-* Friendly, accessible online submission and peer review workflows hosted on leading open-source scholarly publishing platforms
+* Friendly, accessible online submission and peer review workflows hosted on a leading open-source scholarly publishing platform
 * Personalized training and technical support for editorial board members and peer reviewers
 * Positioning as active participants and supporters of the diamond open access publishing model
 * Association with UVM’s reputation for credibility and academic/research excellence
-* Supporting experiential learning opportunities for UVM student interns
+* Support for experiential learning opportunities for UVM student interns
 
 Additionally, [recent research](https://link.springer.com/article/10.1007/s11192-023-04894-0) indicates that open access articles receive more frequent—and more diverse—citations than articles published behind paywalls.
 
@@ -43,7 +43,7 @@ Additionally, [recent research](https://link.springer.com/article/10.1007/s11192
 
 The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
-The editorial director of our Journals Division collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
+The editorial director of UVM Press journals collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
 
 The editorial director’s services also include:
 
