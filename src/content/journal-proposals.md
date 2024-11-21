@@ -21,7 +21,7 @@ The UVM Press partners with scholarly societies and their appointed representati
 * Appoint and sustain a diverse editorial board, a subset of which makes up the journal subcommittee, to complete the work of developing, launching, and maintaining continuous publication of the journal. 
 * Maintain a rolling publication schedule.
 
-UVM Press journal partnerships begin with a [proposal process](#proposal-process) and are formalized with a Memorandum of Understanding signed by representatives of the society and of the UVM Press. Affiliation with the University of Vermont is not a requirement for proposals to or publishing with the UVM Press.
+UVM Press journal partnerships begin with a proposal process and are formalized with a Memorandum of Understanding signed by representatives of the society and of the UVM Press. Affiliation with the University of Vermont is not a requirement for proposals to or publishing with the UVM Press.
 
 ## The Benefits of Diamond Open Access Journal Publishing with the UVM Press
 
