@@ -20,6 +20,6 @@ Our publishing model is built on shared responsibilities and a commitment not to
 
 ## Our Services
 
-Staffed by two editorial directors—one for the books division and one for the journals division—the UVM Press provides consultation, strategy, editorial, and production services on a case-by-case basis.
+Staffed by two editorial directors—one for books and one for journals—the UVM Press provides consultation, strategy, editorial, and production services on a case-by-case basis.
 
 The UVM Press also provides access to, training on, and support services for the online publishing platform we use for journal article submissions, peer review, production, and publication.
