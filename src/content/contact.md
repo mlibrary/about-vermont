@@ -35,4 +35,4 @@ Marie Spaeth is a sophomore from Stamford, Connecticut, pursuing a degree in Eng
 
 **Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
 
-**Donation inquiries:** [Email Kate AbdelFatah](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press), our UVM Press liaison in the UVM Foundation.
+**Donation inquiries:** [Email Cheryl Brodowski](mailto:Cheryl.Brodowski@uvm.edu)[](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
