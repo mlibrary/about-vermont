@@ -7,5 +7,5 @@ description: "The diamond open access journal of the American Ecological
   design of ecosystem processes, functions, and services and to amplify the role
   of design as scholarship in academic and professional communities. "
 orderOnPage: 1
-readLink: https://jeed.pubpub.org/
+readLink: https://journals.uvm.edu/jeed
 ---
