@@ -4,9 +4,9 @@ title: UVM Press Joins the Planetary Health Alliance
 summary: Diamond Open Access Publisher to Publish First Planetary Health Title in 2026
 date: 2025-04-09T20:23:37.483Z
 ---
-![UVM Press Logo in dark green](assets/uvmpress_horiz-g-3-x-1.5.png)
+![UVM Press Logo in dark green](assets/uvmpress_horiz-g-1.5.png)
 
-![Planetary Health Alliance member badge in green, blue, gold, and white on a black background](assets/pha-member-badge.jpg)
+![Planetary Health Alliance member badge in green, blue, gold, and white on a black background](assets/pha-member-badge-1.5.jpeg)
 
 BURLINGTON, VT (April 9, 2024)—In support of the University of Vermont’s [Planetary Health Initiative](https://www.uvm.edu/planetaryhealthinitiative), the University of Vermont (UVM) Press has joined the Planetary Health Alliance (PHA) as an organizational member. UVM Press intends to publish its first planetary health title in 2026, an edited volume on walkability and its connections to personal and planetary health edited by Annika Lundkvist, a scholar of urbanism, sustainable mobility, and resilience. Lundkvist is also the founder of [Pedestrian Space](https://pedestrianspace.org/), a web platform and NGO devoted to issues of walkability and sustainable cities.
 
