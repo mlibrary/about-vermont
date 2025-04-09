@@ -4,7 +4,7 @@ title: UVM Press Joins the Planetary Health Alliance
 summary: Diamond Open Access Publisher to Publish First Planetary Health Title in 2026
 date: 2025-04-09T20:23:37.483Z
 ---
-![UVM Press Logo in dark green](assets/UVMPRESS_Horizontal_G.svg)
+![UVM Press Logo in dark green](assets/uvmpress_horiz-g-3-x-1.5.png)
 
 ![Planetary Health Alliance member badge in green, blue, gold, and white on a black background](assets/pha-member-badge.jpg)
 
