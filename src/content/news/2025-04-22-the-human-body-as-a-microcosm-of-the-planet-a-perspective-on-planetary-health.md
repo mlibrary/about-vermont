@@ -8,6 +8,8 @@ date: 2025-04-22T13:35:37.881Z
 ---
 **By Caroline Deir**
 
+![](assets/pha-member-badge-1.5.jpeg)
+
 The University of Vermont (UVM) Press is dedicated to publishing academic writing that highlights the connections between human and environmental health. As a part of the University of Vermont, the UVM Press aligns with the university’s commitment to planetary health, demonstrated through UVM Press’s membership in the Planetary Health Alliance. This global consortium emphasizes the relationship between ecological stability and human well-being, an idea that directly informs the Press’s mission. This discourse has brought up one of the most interesting metaphors in planetary health research: the human body as a microcosm of the planet.
 
 The boundaries between humans and nature are not as distinct as some might assume. David Victorson, of the Northwestern University Feinberg School of Medicine, expands on this idea by saying, “Our bodies are made of water, air, soil, and sun. The microbes in our gut mirror the biodiversity of a healthy forest floor. The oxygen in our blood was once in the leaves of trees. If we get our drinking water from Lake Michigan, we are a living embodiment of Lake Michigan.”
@@ -19,3 +21,5 @@ Perhaps the solution lies in embracing a new era: the Symbiocene. This is a term
 The metaphor of the human body as a microcosm of the planet is more than food for thought. It is a call to action. Just as we strive for personal well-being through nutrition, exercise, and healthcare, we must extend the same care to the planet through sustainable practices, conservation, and policy. UVM Press remains committed to publishing research that advances this understanding, reinforcing the idea to treat planetary health with the same urgency and dedication that we afford human health.
 
 *Caroline Deir is an undergraduate publishing intern for the UVM Press.*
+
+Photo by [Margot RICHARD](https://unsplash.com/@mrgt_rchd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/unknown-person-holding-clear-glass-ball-NJJ7paSBO-c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
