@@ -8,7 +8,7 @@ date: 2025-04-22T13:35:37.881Z
 ---
 **By Caroline Deir**
 
-![](assets/margot-richard-njj7pasbo-c-unsplash.jpg)
+![A hand holds a glass sphere up to the tree-lined sky, creating a Earth-like image in the sphere.](assets/margot-richard-njj7pasbo-c-unsplash.jpg)
 
 The University of Vermont (UVM) Press is dedicated to publishing academic writing that highlights the connections between human and environmental health. As a part of the University of Vermont, the UVM Press aligns with the university’s commitment to planetary health, demonstrated through UVM Press’s membership in the Planetary Health Alliance. This global consortium emphasizes the relationship between ecological stability and human well-being, an idea that directly informs the Press’s mission. This discourse has brought up one of the most interesting metaphors in planetary health research: the human body as a microcosm of the planet.
 
