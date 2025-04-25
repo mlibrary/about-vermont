@@ -1,7 +1,8 @@
 ---
 templateKey: news
 title: Getting to Know the New UVM Press
-summary: UVM Press supports the success and mission of the University of Vermont.
+summary: By making its content free for everyone, the Press supports the success
+  and mission of the University of Vermont.
 date: 2025-04-25T13:51:33.121Z
 ---
 ![The UVM Press logo, which shows the silhouette of Camel's Hump mountain and a prowling Catamount](assets/uvmpress_horiz-g-3-x-1.5.png)
