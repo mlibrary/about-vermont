@@ -5,6 +5,8 @@ summary: By making its content free for everyone, the Press supports the success
   and mission of the University of Vermont.
 date: 2025-04-25T13:51:33.121Z
 ---
+**B﻿y Rosali Hernandez**
+
 ![The UVM Press logo, which shows the silhouette of Camel's Hump mountain and a prowling Catamount](assets/uvmpress_horiz-g-3-x-1.5.png)
 
 After years as a member of the consortial University Press of New England, which closed in 2018, the University of Vermont (UVM) Press relaunched itself in 2023. In its new form, UVM Press is a fully digital, diamond open access academic publisher that serves the community, shares essential information, improves understanding, and encourages diversity of thought.
