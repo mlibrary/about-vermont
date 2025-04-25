@@ -1,6 +1,6 @@
 ---
 templateKey: news
-title: The New University of Vermont Press
+title: Getting to Know the New UVM Press
 summary: UVM Press supports the success and mission of the University of Vermont.
 date: 2025-04-25T13:51:33.121Z
 ---
