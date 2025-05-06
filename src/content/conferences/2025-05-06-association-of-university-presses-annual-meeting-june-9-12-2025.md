@@ -1,6 +1,6 @@
 ---
 templateKey: conference
-title: "Association of University Presses Annual Meeting: June 9-12, 2025"
+title: "June 9-12, 2025: Association of University Presses Annual Meeting"
 summary: UVM Press will attend and present at this virtual event.
 date: 2025-05-06T15:38:56.998Z
 ---
