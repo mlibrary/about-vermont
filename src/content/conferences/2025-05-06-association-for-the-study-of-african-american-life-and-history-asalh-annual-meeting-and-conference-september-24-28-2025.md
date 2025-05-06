@@ -1,7 +1,7 @@
 ---
 templateKey: conference
-title: "Association for the Study of African American Life and History (ASALH)
-  Annual Meeting and Conference: September 24-28, 2025"
+title: "September 24-28, 2025: Association for the Study of African American
+  Life and History (ASALH) Annual Meeting and Conference"
 summary: UVM Press and the will participate in a panel discussion launching the
   Journal of Black Military Studies.
 date: 2025-05-06T15:30:46.311Z
