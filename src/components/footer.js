@@ -39,6 +39,7 @@ const Footer = () => {
               <li><a href="https://www.uvmfoundation.org" className="text-light">UVM Foundation</a></li>
               <li><a href="https://library.uvm.edu/" className="text-light">University of Vermont Libraries</a></li>
               <li><a href="https://www.ecoeng.org/" className="text-light">American Ecological Engineering Society</a></li>
+              <li><a href="https://middlegradescollaborative.org/" className="text-light">Middle Grades Collaborative</a></li>
               <li><a href="https://www.blackmilitarystudies.com/" className="text-light">Society for Black Military Studies</a></li>
               <li><a href="https://services.publishing.umich.edu/" className="text-light">Michigan Publishing Services</a></li>
               <li><a href="https://janeway.systems/index" className="text-light">Janeway</a></li>
