@@ -8,6 +8,10 @@ The UVM Press is proud to partner with scholars and societies to publish peer-re
 
 The diamond open access journal of the American Ecological Engineering Society, *JEED* aims to expand understanding of the science and design of ecosystem processes, functions, and services and to amplify the role of design as scholarship in academic and professional communities.
 
+### [Middle Grades Review](https://journals.uvm.edu/mgr)
+
+*[](https://journals.uvm.edu/mgr)Middle Grades Review (MGR),* a publication of [Middle Grades Collaborative](https://middlegradescollaborative.org/), provides a provocative forum for debate within the field of middle grades education. Inviting a critical perspective, *MGR* is a peer-reviewed, diamond open access venue for scholars and practitioners who wish to broaden the discourse of middle grades education by challenging conventional wisdom. *MGR* seeks pieces that explore three themes: Democratic Education, Innovation, and Social Justice in relation to middle grades education and young adolescents.
+
 ### [J﻿ournal of Black Military Studies (forthcoming)](https://journals.uvm.edu/jbms)
 
 The international, multi-disciplinary journal of the Society for Black Military Studies, *JBMS* will encapsulate the military experience (broadly defined) within and throughout the Black Diaspora. It will showcase innovative, dynamic approaches to analyzing, preserving, and disseminating histories, heritages, arts, politics, discourse, and literature of war and military participation within the Black Diaspora.
