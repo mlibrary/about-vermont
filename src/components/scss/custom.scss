@@ -75,10 +75,12 @@ ul {
 } */
 
 
-
-:focus {
-  outline: 3px solid #FFD100;
-  outline-offset: 0;
+*:focus {
+	/* inner indicator */
+	outline: 2px #F9F9F9 solid !important;
+	outline-offset: 0;
+	/* outer indicator */
+	box-shadow: 0 0 0 4px #193146 !important;
   -webkit-transition: outline .05s ease-out;
   -o-transition: outline .05s ease-out;
   transition: outline .05s ease-out;
@@ -126,6 +128,21 @@ p a.btn {
   .dropdown-menu {
     border-radius: 0;
   }
+
+  .dropdown-menu-top-link {
+    text-decoration: none;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0;
+    background-color: $vermont-light-grey;
+  }
+
+  .dropdown-menu-top-link:hover,
+  .dropdown-menu-top-link:active,
+  .dropdown-menu-top-link:focus {
+    cursor: pointer;
+  }
 }
 
 .navbar-brand {
@@ -136,6 +153,8 @@ p a.btn {
     font-size: 2.5rem;
     vertical-align: middle;
     padding-left: 8px;
+    height: auto;
+    width: 300px;
   }
 }
 
@@ -341,6 +360,23 @@ p a.btn {
     max-height: 300px;
     overflow: hidden;
   }
+
+  .card-body {
+    position: relative;
+
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+
+    a:focus {
+      outline: initial;
+    }
+  }
 }
 
 .event-card-container {
@@ -403,7 +439,8 @@ p a.btn {
   }
 
   ul.second-nav {
-    font-size: 20px;
+    font-size: 1rem; //20px;
+    padding-top: 1.5em;
   }
 
   li {

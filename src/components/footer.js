@@ -47,11 +47,17 @@ const Footer = () => {
           </div>
           <div className="col-md-3">
             <ul className="list-unstyled second-nav">
-            <li><a href="/about" className="text-light">About</a></li>
-              <li><a href="/news" className="text-light">News</a></li>
-              <li><a href="/conferences" className="text-light">Conferences and Events</a></li>
-              <li><a href="/book-proposals" className="text-light">Publish with Us</a></li> 
-              <li><a href="/support-uvm-press" className="text-light">Support UVM Press</a></li>     
+              <li><Link to="/about" className="text-light">About</Link></li>
+              <li><Link to="/contact" className="text-light">Contact</Link></li>
+              <li><a href="https://fulcrum.org/vermont" className="text-light">Books</a></li>
+              <li><Link to="/journals" className="text-light">Journals</Link></li>
+              <li><Link to="/publish-with-us" className="text-light">Publishing Partnerships</Link></li>
+              <li><Link to="/book-proposals" className="text-light">Book Proposals</Link></li>
+              <li><Link to="/journal-proposals" className="text-light">Journal Proposals</Link></li>
+              <li><Link to="/support-uvm-press" className="text-light">Support UVM Press</Link></li>  
+              <li><Link to="/news" className="text-light">News</Link></li>
+              <li><Link to="/conferences" className="text-light">Conferences and Events</Link></li>
+   
             </ul>
           </div>
         </div>
