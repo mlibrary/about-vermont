@@ -18,12 +18,12 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse roboto flex-row-reverse" id ="navbarSupportedContent">
+        <div className="collapse navbar-collapse roboto flex-row-reverse" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item dropdown">
-              <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
+              <button className="text-dark dropdown-menu-top-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 About
-              </a>
+              </button>
               <div className="dropdown-menu">
                 <a className="dropdown-item" href="/about">About Us</a>                
                 <a className="dropdown-item" href="/contact">Contact Us</a>
@@ -32,10 +32,10 @@ const Navbar = () => {
             <li className="nav-item"><a className="nav-link text-dark" href="https://fulcrum.org/vermont">Books</a></li>
             <li className="nav-item"><a className="nav-link text-dark" href="/journals/">Journals</a></li>
             <li className="nav-item dropdown">
-              <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink-2" data-toggle="dropdown" aria-expanded="false">
+              <button className="text-dark dropdown-menu-top-link dropdown-toggle" id="dropdownMenuLink-2" data-toggle="dropdown" aria-expanded="false">
                 Publish With Us
-              </a>
-              <div className="dropdown-menu" aria-labelledby="dropdownMenuLink-2">
+              </button>
+              <div className="dropdown-menu">
                 <a className="dropdown-item" href="/publish-with-us">Publishing Partnerships</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>

@@ -7,6 +7,7 @@ const Journal = ({cover, journal}) => {
     author,
     readLink,    
     description,
+    orderOnPage
   } = journal
 
   return (
@@ -17,9 +18,9 @@ const Journal = ({cover, journal}) => {
         </div>
         <div className="col-md-8">
           <div className="card-body">
-            <h3 className="card-title">{title}</h3>            
+            <h3 id={`journal${orderOnPage}`} className="card-title">{title}</h3>            
             <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn-lg" role="button" href={readLink}>Read free online</a>            
+            <a className="card-link btn btn-secondary btn-lg" aria-describedby={`journal${orderOnPage}`} href={readLink}>Read free online</a>            
           </div>
         </div>
       </div>
