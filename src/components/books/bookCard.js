@@ -21,7 +21,7 @@ const Book = ({cover, book}) => {
             <h3 id={`book${orderOnPage}`} className="card-title">{title}</h3>
             <p className="card-subtitle text-muted h6">{author}</p>
             <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn-lg" role="button" aria-describedby={`book${orderOnPage}`} href={readLink}>Read free online</a>
+            <a className="card-link btn btn-secondary btn-lg" aria-describedby={`book${orderOnPage}`} href={readLink}>Read free online</a>
           </div>
         </div>
       </div>
