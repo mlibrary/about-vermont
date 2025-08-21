@@ -1,6 +1,6 @@
 ---
 templateKey: journal
-title: Journal of Black Military Studies (forthcoming)
+title: Journal of Black Military Studies
 cover: assets/jbms-brand-logo-box-large.jpeg
 description: The open access journal of the Journal of Black Military Studies,
   an international, multi-disciplinary, peer-reviewed journal of the Society for
