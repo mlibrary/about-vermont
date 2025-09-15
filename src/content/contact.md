@@ -20,18 +20,7 @@ Aimee.Diehl@uvm.edu](mailto:Aimee.Diehl@uvm.edu)
 
 A professional writer-editor, project manager, and creative consultant, Aimee Diehl led the multi-year, diamond open access journal publishing project that laid the groundwork for re-establishing the University of Vermont Press in June 2023. She is the inaugural editorial director of UVM Press journals, a position that allows her to advocate for equitable, accessible publishing while collaborating with diverse scholars throughout North America. Aimee has more than 20 years of organizational and higher education strategic communications experience, most recently at Middlebury College. She holds an M.A. in communications from Marquette University and a B.A. in journalism from the University of Wisconsin-Whitewater.
 
-## Publishing Interns
 
-#### Academic Year 2024 – 2025
-
-**Caroline Deir**\
-Caroline Deir is a sophomore at the University of Vermont studying biological sciences and wildlife biology on the pre-medical track. She was born and raised in Charlotte, North Carolina, where she developed a passion for designing, editing, and publishing through her high school’s yearbook organization. This passion grew during her freshman year of college, when she worked for Josten’s, a manufacturer of high school and college memorabilia, helping proof high school yearbook editorials. In her free time, Caroline enjoys mountain biking, climbing, hot yoga, and losing in intramural hockey. She is excited to intern with UVM Press this semester and cannot wait to see how the organization grows.
-
-**Rosali Hernandez**\
-A first-year environmental engineering major from Houston, Texas, Rosali Hernandez aims to pursue a career in conservation and social justice that improves the wellbeing of others. By taking advanced science and language credits in high school, she found her interest in environmental preservation and civil equity that is globally impactful. Rosali is also a passionate artist who spends her free time creating multimedia art, attending live music shows, writing poetry, and playing guitar, bass, and drums. Through working with the UVM Press, she hopes to contribute to its mission and commit her efforts to making knowledge free and accessible to everyone.
-
-**Marie Spaeth**\
-Marie Spaeth is a sophomore from Stamford, Connecticut, pursuing a degree in English with a minor in writing. She writes for *The Vermont Cynic*, UVM’s student-run newspaper, covering student life and everything Burlington has to offer. Marie also sings with Hit Paws, one of UVM’s gender-inclusive a cappella groups that performs on and off campus. Marie enjoys creative writing, reading, singing, and spending time with friends. In the winter, you’ll catch her skiing down the slopes of every mountain in Vermont!
 
 **Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
 
