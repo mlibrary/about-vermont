@@ -6,6 +6,10 @@ The UVM Press is staffed by two editorial directors, each of whom provide consul
 
 [Contact an editorial director](mailto:press@uvm.edu) to discuss your idea.
 
+**Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
+
+**Donation inquiries:** [Email Cheryl Brodowski](mailto:Cheryl.Brodowski@uvm.edu)[](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
+
 ## Books
 
 **Thomas W. Krause, Editorial Director**\
@@ -20,8 +24,8 @@ Aimee.Diehl@uvm.edu](mailto:Aimee.Diehl@uvm.edu)
 
 A professional writer-editor, project manager, and creative consultant, Aimee Diehl led the multi-year, diamond open access journal publishing project that laid the groundwork for re-establishing the University of Vermont Press in June 2023. She is the inaugural editorial director of UVM Press journals, a position that allows her to advocate for equitable, accessible publishing while collaborating with diverse scholars throughout North America. Aimee has more than 20 years of organizational and higher education strategic communications experience, most recently at Middlebury College. She holds an M.A. in communications from Marquette University and a B.A. in journalism from the University of Wisconsin-Whitewater.
 
+## Internships
 
+**Grace Cook, 2025 – 2026 Undergraduate Intern**
 
-**Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
-
-**Donation inquiries:** [Email Cheryl Brodowski](mailto:Cheryl.Brodowski@uvm.edu)[](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
+Grace Cook is a senior at the University of Vermont. She has completed an English major and is minoring in art history and consumer and advertising. Grace enjoys reading, running, drawing, traveling, and learning about new cultures. She is looking forward to a career in publishing.
