@@ -4,7 +4,7 @@ title: Contact Us
 ---
 The UVM Press is staffed by two editorial directors, each of whom provide consultation, strategy, editorial, and production services customized for each publishing project. They are supported by UVM student interns who are learning about careers in writing, editing, and publishing.
 
-[Contact an editorial director](mailto:press@uvm.edu) to discuss your idea.
+**Book or journal proposals:** [Contact an editorial director](mailto:press@uvm.edu) to discuss your idea.
 
 **Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
 
