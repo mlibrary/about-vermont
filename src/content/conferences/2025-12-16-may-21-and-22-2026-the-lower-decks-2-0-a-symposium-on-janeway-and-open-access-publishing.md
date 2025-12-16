@@ -3,7 +3,7 @@ templateKey: conference
 title: "May 21 and 22, 2026: The Lower Decks 2.0, A Symposium on Janeway and
   Open Access Publishing"
 summary: UVM Press will attend this collaborative event in Dublin, Ireland.
-date: 2025-12-16T15:50:04.380Z
+date: 2025-12-09T15:50:04.380Z
 ---
 Aimee Diehl, Journals Editorial Director, will attend Janeway’s second symposium, which explores how users and the scholarly community inform Janeway’s development.
 
