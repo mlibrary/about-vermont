@@ -22,4 +22,4 @@ This button opens a secure online donation form hosted by the UVM Foundation, wh
 ## Learn More
 
 * Read about the [UVM Press, our mission, and our diamond open access model](/about).
-* Discuss planned giving opportunities with [](mailto:Katharine.Abdelfatah@uvm.edu?subject=Supporting%20UVM%20Press_)[Cheryl Brodowski](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
+* Discuss planned giving opportunities with [Cheryl Brodowski](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
