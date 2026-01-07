@@ -8,7 +8,7 @@ The UVM Press is staffed by two editorial directors, each of whom provide consul
 
 **Media inquiries:** [Email the UVM Press](mailto:press@uvm.edu).
 
-**Donation inquiries:** <a href="mailto:Cheryl.Brodowski@uvm.edu">Email Cheryl Brodowski</a>[](mailto:Cheryl.Brodowski@uvm.edu), our UVM Press liaison in the UVM Foundation.
+**Donation inquiries:** <a href="mailto:Cheryl.Brodowski@uvm.edu">Email Cheryl Brodowski</a>, our UVM Press liaison in the UVM Foundation.
 
 ## Books
 
