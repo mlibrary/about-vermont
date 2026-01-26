@@ -29,3 +29,7 @@ A professional writer-editor, project manager, and creative consultant, Aimee Di
 **Grace Cook, 2025 – 2026 Undergraduate Intern**
 
 Grace Cook is a senior at the University of Vermont. She has completed an English major and is minoring in art history and consumer and advertising. Grace enjoys reading, running, drawing, traveling, and learning about new cultures. She is looking forward to a career in publishing.
+
+**M﻿acy Isenberg, Spring 2026 Journals Editorial Assistant**
+
+Macy Isenberg is a senior at the University of Vermont. She will graduate in May with a major in history and a minor in reporting and documentary storytelling. Macy enjoys reading, playing tennis, and exploring Vermont, and she is excited about pursuing a career in publishing after graduation.
