@@ -6,6 +6,8 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access platform. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
+**The UVM Press journal program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, Journals Editorial Director](mailto:aimee.diehl@uvm.edu), for more information.**
+
 **Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
 
 * The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
@@ -37,15 +39,15 @@ By partnering with the UVM Press, scholars and societies become active participa
 
 Additionally, [recent research](https://link.springer.com/article/10.1007/s11192-023-04894-0) indicates that open access articles receive more frequent—and more diverse—citations than articles published behind paywalls.
 
-**UVM Press publishing partners do not pay for publishing support services that fall within the scope of a partnership agreement.** Services outside the scope of this agreement include contracted services provided by vendors outside UVM, such as work by designers and creative professionals, migration of print or online journal content, and custom coding or open-source platform personalization. Other outside services may include language translation services or non-English-language editing. Costs for these services are borne by the journal.
+**UVM Press journal publishing partners do not pay for publishing support services that fall within the scope of a partnership agreement.** Services outside the scope of this agreement include contracted services provided by vendors outside UVM, such as work by designers and creative professionals, migration of print or online journal content, and custom coding or open-source platform personalization. Other outside services may include language translation services or non-English-language editing. Costs for these services are borne by the journal.
 
 ## The UVM Press Publishing Team
 
 The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
-The editorial director of UVM Press journals collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
+The journals editorial director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
 
-The editorial director’s services also include:
+The journals editorial director’s services also include:
 
 * Advising editorial boards on site structure and boilerplate content
 * Writing, copyediting, and maintaining site content and downloadable article template files
@@ -63,6 +65,10 @@ Outside, platform-specific professionals can be available on a paid, case-by-cas
 
 ## Proposing a Journal Partnership
 
-Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee. Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.
+Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee.
+
+Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.
+
+UVM Press journal partnerships are intended for scholarly societies and organizations. (Student-led and student-produced journals are ineligible.) To qualify as a partner, the journal’s editorial board and subcommittee must maintain a majority of current members that hold active faculty appointments at colleges or universities. An affiliation with the University of Vermont is not required for proposals to or publishing with the UVM Press.
 
 For more information or to request a proposal form, please email [Aimee Diehl](mailto:aimee.diehl@uvm.edu).
