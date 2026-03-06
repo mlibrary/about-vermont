@@ -54,7 +54,7 @@ The journals editorial director’s services also include:
 * Arranging and conducting strategy and policy development sessions
 * Developing workflows and attending regular editorial board meetings
 * Providing technology trainings for editors who manage online submissions and peer reviews, and offering ongoing support sessions for authors, reviewers, and associate editors 
-* Serving as traffic manager for each submission, collaborating with the editor(s) in chief throughout peer review and, if applicable, the production and publication process
+* Serving as traffic manager for each submission, collaborating with editors throughout peer review and, for accepted manuscripts, the production and publication process
 * Mentoring UVM student interns and overseeing their work
 * Managing relationships with outside designers and creative professionals
 * Completing indexing and archiving tasks, including generating article DOIs and applying for the journal’s ISSN upon eligibility
