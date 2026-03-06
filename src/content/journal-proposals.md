@@ -4,16 +4,18 @@ title: Journal Proposals
 ---
 ## UVM Press Diamond Open Access Journal Publishing
 
-The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access platform. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
+The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-**The UVM Press journal program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, journals editorial director](mailto:aimee.diehl@uvm.edu), for more information.**
+### **The UVM Press journal program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, journals editorial director](mailto:aimee.diehl@uvm.edu), for more information.**
 
-**Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
+#### **Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
 
 * The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
 * The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, a submission and peer review platform, digital publishing, and preservation services for the journal’s content.
 
-**The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.** Potential society partners must agree to these additional requirements for the lifetime of the publication:
+#### **The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.** 
+
+Potential society partners must agree to these additional requirements for the lifetime of the publication:
 
 * Publish all journal content under a diamond open access model, without article processing fees, advertising, subscription fees, or membership requirements.
 * Copyright work through Creative Commons licenses, which allow free sharing of content within the rules of the chosen license.
