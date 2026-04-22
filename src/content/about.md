@@ -26,29 +26,29 @@ Formerly an imprint of University Press of New England, a university press conso
 
 ## Faculty Advisory Board
 
-[Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)\
+**[Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)**\
 Professor of History, College of Arts and Sciences
 
-[Reuben Escorpizo](https://www.uvm.edu/cnhs/rms/profile/reuben-escorpizo)\
+**[Reuben Escorpizo](https://www.uvm.edu/cnhs/rms/profile/reuben-escorpizo)**\
 Clinical Professor, College of Nursing and Health Sciences 
 
-[Holger Hoock](https://www.uvm.edu/president/profile/holger-hoock)\
+**[Holger Hoock](https://www.uvm.edu/president/profile/holger-hoock)**\
 Dean, Graduate College \
 Vice Provost for Graduate and Postdoctoral Studies
 
-[Lili Martin](https://www.uvm.edu/cnhs/nursing/profile/lili-martin)\
+**[Lili Martin](https://www.uvm.edu/cnhs/nursing/profile/lili-martin)**\
 Clinical Associate Professor, College of Nursing and Health Sciences 
 
-[Donna O’Malley](https://libraries.uvm.edu/prf.php?account_id=10365)\
+**[Donna O’Malley](https://libraries.uvm.edu/prf.php?account_id=10365)**\
 Associate Professor, UVM Libraries
 
-[Eric Thrailkill](https://www.uvm.edu/larnermed/bios/profile/eric-thrailkill)\
+**[Eric Thrailkill](https://www.uvm.edu/larnermed/bios/profile/eric-thrailkill)**\
 Assistant Professor, Larner College of Medicine 
 
-[Amy Trubek](https://www.uvm.edu/cals/nfs/profile/amy-trubek),\
+**[Amy Trubek](https://www.uvm.edu/cals/nfs/profile/amy-trubek)**\
 Professor, College of Agriculture and Life Sciences \
 Affiliate, Gund Institute for Environment
 
-[Kimberly Vannest](https://www.uvm.edu/cess/profile/kimberly-vannest)\
+**[Kimberly Vannest](https://www.uvm.edu/cess/profile/kimberly-vannest)**\
 Professor and University Scholar\
 Chair, Department of Education
