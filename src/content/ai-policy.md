@@ -27,4 +27,6 @@ Assistive AI features built into word processing software, such as proofreading 
 <li>University of Vermont (2026a). Generative AI guidelines for researchers. <a href="https://www.uvm.edu/ai/guidelines-researchers">https://www.uvm.edu/ai/guidelines-researchers</a></li>
 <li>University of Vermont (2026). Generative AI guidelines for staff. <a href="https://www.uvm.edu/ai/guidelines-staff">https://www.uvm.edu/ai/guidelines-staff</a></li>
 
+
+
 *P﻿osted May 4, 2026*
