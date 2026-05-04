@@ -54,6 +54,7 @@ const Footer = () => {
               <li><Link to="/publish-with-us" className="text-light">Publishing Partnerships</Link></li>
               <li><Link to="/book-proposals" className="text-light">Book Proposals</Link></li>
               <li><Link to="/journal-proposals" className="text-light">Journal Proposals</Link></li>
+              <li><Link to="/ai-policy" className="text-light">AI Policy</Link></li>
               <li><Link to="/support-uvm-press" className="text-light">Support UVM Press</Link></li>  
               <li><Link to="/news" className="text-light">News</Link></li>
               <li><Link to="/conferences" className="text-light">Conferences and Events</Link></li>

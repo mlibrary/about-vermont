@@ -115,6 +115,13 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: journalProposals-page }
           - { name: title, label: Journal Proposals }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/ai-policy.md"
+        name: aiPolicy
+        label: "AI Policy"
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: AI Policy }
           - { name: body, label: Body, widget: markdown }    
       - file: "src/content/contact.md"
         name: contact

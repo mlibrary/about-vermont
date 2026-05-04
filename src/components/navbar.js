@@ -39,6 +39,7 @@ const Navbar = () => {
                 <a className="dropdown-item" href="/publish-with-us">Publishing Partnerships</a>
                 <a className="dropdown-item" href="/book-proposals">Book Proposals</a>                
                 <a className="dropdown-item" href="/journal-proposals">Journal Proposals</a>
+                <a className="dropdown-item" href="/ai-policy">AI Policy</a>
               </div>
             </li>
             <li className="nav-item"><a className="nav-link text-dark" href="/support-uvm-press">Support</a></li>

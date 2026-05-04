@@ -88,7 +88,7 @@ ul {
 
 
 // links
-p {
+p, ul, ol, blockquote {
   a {
   text-decoration: underline;
   color: $vermont-link;
@@ -124,6 +124,8 @@ p a.btn {
 .navbar-nav {
   @include roboto;
   padding-top: 3em;
+
+  a { text-decoration: none; }
 
   .dropdown-menu {
     border-radius: 0;
@@ -379,6 +381,11 @@ p a.btn {
   }
 }
 
+.event-card-list {
+  ul a {
+    text-decoration: none;
+  }
+}
 .event-card-container {
   h3 {
     font-size: 1.25rem;
