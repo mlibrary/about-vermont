@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: UVM Press AI Policy
+title: AI Policy
 ---
 <p class="lead">The University of Vermont Press follows <a href="https://www.uvm.edu/ai">the University’s own Artificial Intelligence (AI) guidance</a>, which encourages responsible use of generative and assistive AI tools, and the <a href="https://publicationethics.org/cope-position-statements/ai-author">Authorship and AI Tools position statement</a> developed by the <a href="https://publicationethics.org/">Committee on Publication Ethics (COPE)</a>. This AI policy will be reviewed and updated regularly in response to this rapidly evolving technology.</p>
 
