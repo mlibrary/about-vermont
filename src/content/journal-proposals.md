@@ -6,7 +6,7 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-##### **The UVM Press journal program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, journals editorial director](mailto:aimee.diehl@uvm.edu), for more information.**
+##### **The UVM Press journal** **publishing program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, journals editorial director](mailto:aimee.diehl@uvm.edu), for more information.**
 
 **Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
 
