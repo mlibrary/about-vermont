@@ -399,8 +399,43 @@ p a.btn {
   padding: 3rem 0 1rem;
   @include roboto;
 
+
+  .friends {
+    font-size: .9rem;
+    
+    ul {
+      display: inline;
+      
+      li {
+        display: inline list-item;
+      }
+      li::after {
+        content:", ";
+      }
+      li:last-of-type::after {
+        content:"";
+      }
+    }
+  }
+
+  .member {
+    justify-content: space-evenly;
+    img {
+      max-height: 130px;
+      padding-top: 1em;
+    }
+  }
+
   a.logo-link {
     text-decoration: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover, a:focus, a:active {
+    text-decoration: underline;
   }
 
   span.logo {
@@ -448,11 +483,6 @@ p a.btn {
   ul.second-nav {
     font-size: 1rem; //20px;
     padding-top: 1.5em;
-  }
-
-  li {
-    padding-left: 1rem;
-    text-indent:-1rem;
   }
 
 }

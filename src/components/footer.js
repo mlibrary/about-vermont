@@ -30,23 +30,30 @@ const Footer = () => {
             802-656-2020</small>
             <small className="mb-2 text-light d-block"><a href="mailto:press@uvm.edu" className="text-light">press@uvm.edu</a></small>            
           </div>                    
-          <div className="col-md-3">
-            <span className="font-weight-bold">Friends of the UVM Press</span>
-            <ul className="list-unstyled">
-              <li><a href="https://www.uvm.edu/president" className="text-light">Office of the President</a></li>
-              <li><a href="https://www.uvm.edu/provost" className="text-light">Office of the Provost</a></li>
-              <li><a href="https://www.uvm.edu/ovpr" className="text-light">Office of the Vice President for Research</a></li>
-              <li><a href="https://www.uvmfoundation.org" className="text-light">UVM Foundation</a></li>
-              <li><a href="https://library.uvm.edu/" className="text-light">University of Vermont Libraries</a></li>
-              <li><a href="https://www.ecoeng.org/" className="text-light">American Ecological Engineering Society</a></li>
-              <li><a href="https://middlegradescollaborative.org/" className="text-light">Middle Grades Collaborative</a></li>
-              <li><a href="https://www.blackmilitarystudies.com/" className="text-light">Society for Black Military Studies</a></li>
-              <li><a href="https://services.publishing.umich.edu/" className="text-light">Michigan Publishing Services</a></li>
-              <li><a href="https://janeway.systems/index" className="text-light">Janeway</a></li>
-            </ul>
+          <div className="col-md-4">
+            <div className="row friends">
+              <span className="font-weight-bold">Friends of the UVM Press: </span>
+              <ul className="list-unstyled">
+                <li><a href="https://www.uvm.edu/president" className="text-light">Office of the President</a></li>
+                <li><a href="https://www.uvm.edu/provost" className="text-light">Office of the Provost</a></li>
+                <li><a href="https://www.uvm.edu/ovpr" className="text-light">Office of the Vice President for Research</a></li>
+                <li><a href="https://www.uvmfoundation.org" className="text-light">UVM Foundation</a></li>
+                <li><a href="https://library.uvm.edu/" className="text-light">University of Vermont Libraries</a></li>
+                <li><a href="https://www.ecoeng.org/" className="text-light">American Ecological Engineering Society</a></li>
+                <li><a href="https://middlegradescollaborative.org/" className="text-light">Middle Grades Collaborative</a></li>
+                <li><a href="https://www.blackmilitarystudies.com/" className="text-light">Society for Black Military Studies</a></li>
+                <li><a href="https://services.publishing.umich.edu/" className="text-light">Michigan Publishing Services</a></li>
+                <li><a href="https://janeway.systems/index" className="text-light">Janeway</a></li>
+              </ul>
+            </div>
+            <div className="row member">
+              <a href="https://aupresses.org"><img className="img-fluid" src="/assets/aupresses.png" alt="Member of AUPresses" /></a>
+              <a href="https://planetaryhealthalliance.org/"><img className="img-fluid" src="/assets/pha-member.png" alt="Member of the Planetary Health Alliance" /></a>
+            </div>
           </div>
-          <div className="col-md-3">
-            <ul className="list-unstyled second-nav">
+          <div className="col-md-3 navigation">
+            <nav aria-label="Site navigation link list">
+            <ul className="list-unstyled second-nav text-right">
               <li><Link to="/about" className="text-light">About</Link></li>
               <li><Link to="/contact" className="text-light">Contact</Link></li>
               <li><a href="https://fulcrum.org/vermont" className="text-light">Books</a></li>
@@ -60,6 +67,7 @@ const Footer = () => {
               <li><Link to="/conferences" className="text-light">Conferences and Events</Link></li>
    
             </ul>
+            </nav>
           </div>
         </div>
         <div className="row mt-4">
