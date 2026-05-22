@@ -13,7 +13,7 @@ title: AI Policy
 * Authors are responsible for verifying the accuracy, reliability, and appropriateness of any AI-generated content, including references (University of Vermont 2026b).
 * “AI outputs must not include unverified claims, misinformation, or copyrighted material” (University of Vermont 2026b).
 
-## For Reviewers
+## For Editors and Reviewers
 
 * Uploading a manuscript, in whole or in part, to a public AI tool is prohibited and is considered a breach of copyright.
 * Reviewers must disclose any use of generative or assistive AI tools in their review reports.
