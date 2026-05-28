@@ -16,7 +16,7 @@ title: AI Policy
 ## For Editors and Reviewers
 
 * Uploading a manuscript, in whole or in part, to a public AI tool is prohibited and is considered a breach of copyright.
-* Reviewers must disclose any use of generative or assistive AI tools in their review reports.
+* Review reports must disclose any use of AI tools.
 
 Assistive AI features built into word processing software, such as proofreading assistants, grammar assistants, and citation managers, do not require disclosure under this policy.
 
