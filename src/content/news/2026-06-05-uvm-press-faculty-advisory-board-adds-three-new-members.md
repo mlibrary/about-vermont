@@ -4,7 +4,9 @@ title: "UVM Press Faculty Advisory Board Adds Three New Members "
 summary: Three new members join the UVM Press Faculty Advisory Board
 date: 2026-06-05T17:52:14.130Z
 ---
-The University of Vermont Press has named three new UVM faculty members to its faculty advisory board. Bridget Burke, associate professor and director of Silver Special Collections Library; Bryn Geffert, professor of history; and Helen Morgan Parmett, associate professor of English and the Edwin W. Lawrence Endowed Professor of Forensics, will serve two-year terms on the nine-member board. Burke, Geffert, and Morgan Parmett join returning members Boğaç Ergene, Reuben Escorpizo, Lili Martin, Eric Thrailkill, Amy Trubek, and Kimberly Vannest. Appointed by the Provost, faculty advisory board members are essential to the UVM Press. Board members review, critique, and approve all book manuscripts published under its imprint, and their time and expertise make the UVM Press’s diamond open access scholarly publishing model possible.  
+The University of Vermont Press has named three new UVM faculty members to its faculty advisory board. Bridget Burke, associate professor and director of Silver Special Collections Library; Bryn Geffert, professor of history; and Helen Morgan Parmett, associate professor of English and the Edwin W. Lawrence Endowed Professor of Forensics, will serve two-year terms on the nine-member board. Burke, Geffert, and Morgan Parmett join returning members Boğaç Ergene, Reuben Escorpizo, Lili Martin, Eric Thrailkill, Amy Trubek, and Kimberly Vannest. 
+
+Appointed by the Provost, faculty advisory board members are essential to the UVM Press. Board members review, critique, and approve all book manuscripts published under its imprint, and their time and expertise make the UVM Press’s diamond open access scholarly publishing model possible.  
 
 The UVM Press looks forward to working with its new and returning board members as they support the growth and success of its emerging books catalog.  
 
