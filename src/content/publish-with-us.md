@@ -37,4 +37,4 @@ Book authors are paid an honorarium according to the style of book they are writ
 
 Payment of an honorarium requires submission of a W-9 or W-8BEN via UVM File Transfer Service. 
 
-For more information on the UVM Press books honorarium policy, please contact [Thomas Krause, Editorial Director for Books](mailto:press@uvm.edu).
+For more information on the UVM Press books honorarium policy, please contact [Thomas Krause, Editorial Director for Books](mailto:press@uvm.edu). Visit [Book Proposals](https://press.uvm.edu/book-proposals/) for full author guidelines.
