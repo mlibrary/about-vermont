@@ -75,7 +75,8 @@ The UVM Press Faculty Advisory Board is a diverse group of UVM faculty, represen
 
 ### Faculty Advisory Board, Summer 2026 – Spring 2028
 
-[**Bridget Burke**](https://libraries.uvm.edu/az/employee-directory/burke-bridget)Associate Professor, UVM Libraries\
+**[Bridget Burke](https://libraries.uvm.edu/az/employee-directory/burke-bridget)**\
+Associate Professor, UVM Libraries\
 Director, Silver Special Collections Library
 
 **[Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)**\
