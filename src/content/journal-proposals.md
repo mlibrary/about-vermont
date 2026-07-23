@@ -6,7 +6,7 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-### As of 2025, the UVM Press journal publishing program is at capacity.
+### *As of 2025, the UVM Press journal publishing program is at capacity.*
 
 While the UVM Press continues to consider journal proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [](mailto:aimee.diehl@uvm.edu)[Aimee Diehl, journals editorial and production director](mailto:aimee.diehl@uvm.edu), for more information.
 
@@ -73,6 +73,6 @@ Organizations interested in partnering with the UVM Press to publish a new journ
 
 Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.
 
-UVM Press journal partnerships are intended for scholarly societies and organizations. (Student-led and student-produced journals are ineligible.) To qualify as a partner, the journal’s editorial board and subcommittee must maintain a majority of current members that hold active faculty appointments at colleges or universities. An affiliation with the University of Vermont is not required for proposals to or publishing with the UVM Press.
+UVM Press journal partnerships are intended for scholarly societies and organizations. **(Student-led and student-produced journals are ineligible.)** To qualify as a partner, the journal’s editorial board and subcommittee must maintain a majority of current members that hold active faculty appointments at colleges or universities. An affiliation with the University of Vermont is not required for proposals to or publishing with the UVM Press.
 
 For more information or to request a proposal form, please email [Aimee Diehl](mailto:aimee.diehl@uvm.edu).
