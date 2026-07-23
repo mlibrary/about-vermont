@@ -22,4 +22,19 @@ Our publishing model is built on shared responsibilities and a commitment not to
 
 Staffed by two editorial directors—one for books and one for journals—the UVM Press provides consultation, strategy, editorial, and production services on a case-by-case basis.
 
-The UVM Press also provides access to, training on, and support services for the online publishing platform we use for journal article submissions, peer review, production, and publication.
+The UVM Press also provides access to, training on, and support services for Janeway, the online publishing platform we use for journal article submissions, peer review, production, and publication.
+
+## Our Honorarium Policy for Book Authors 
+
+As a diamond open access publisher, the University of Vermont Press promotes equity and fairness in scholarly publishing. We offer our book authors a modest honorarium to compensate them for their time and for their support of diamond open access publishing. 
+
+Book authors are paid an honorarium according to the style of book they are writing for UVM Press: 
+
+* **Monograph:** Authors receive $500 with half paid upon signature of the contract and the remaining balance paid upon submission of a production-ready manuscript. 
+* **Contributed volume:** The lead editor receives $500 with half paid upon signature of the contract and the remaining balance paid upon submission of a production-ready manuscript. 
+* ***Janus Debates* series:** Authors receive $1,500 with half paid upon signature of the contract and the remaining balance paid upon submission of a production-ready manuscript. 
+* Authors submitting alternative forms of content receive an honorarium on a case-by-case basis. 
+
+Payment of an honorarium requires submission of a W-9 or W-8BEN via UVM File Transfer Service. 
+
+For more information on the UVM Press books honorarium policy, please contact [Thomas Krause, Editorial Director for Books](mailto:press@uvm.edu).
