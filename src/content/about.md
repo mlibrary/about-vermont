@@ -32,7 +32,7 @@ Formerly an imprint of University Press of New England, a university press conso
 
 Our diamond open access publishing model promotes equity in scholarly communication by making all content free online to everyone—both readers and authors. While there are many different types of open access publishing, known by different names, only the diamond open access model ensures that published materials begin and remain entirely free of charges, paywalls, and subscription or membership restrictions for everyone, everywhere.
 
-#### Free for readers. 
+#### Free for readers.
 
 In fulfillment of the [Budapest Open Access Initiative (BOAI)](https://www.budapestopenaccessinitiative.org/) and the [Directory of Open Access Journals (DOAJ)](https://doaj.org/apply/guide/) definitions of open access, the full text of UVM Press works may be read, downloaded, copied, distributed, printed, searched, linked to, or used for any lawful, noncommercial purpose without prior permission from the author or publisher. Readers are not required to register or pay to read UVM Press content, which is always made available online immediately. No embargo period applies.
 
