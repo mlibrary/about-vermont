@@ -49,7 +49,7 @@ Additionally, [recent research](https://link.springer.com/article/10.1007/s11192
 
 The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
-The journals editorial and production director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
+The journals editorial and production director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to digital typesetting, proof production, and author approval.
 
 The journals editorial and production director’s services also include:
 
@@ -59,8 +59,8 @@ The journals editorial and production director’s services also include:
 * Developing workflows and attending regular editorial board meetings
 * Providing technology trainings for editors who manage online submissions and peer reviews, and offering ongoing support sessions for authors, reviewers, and associate editors 
 * Serving as traffic manager for each submission, collaborating with editors throughout peer review and, for accepted manuscripts, the production and publication process
-* Mentoring UVM student interns and overseeing their work
-* Managing relationships with outside designers and creative professionals
+* Typesetting accessible online and downloadable versions of each published article
+* Mentoring UVM student employees and overseeing their work
 * Completing indexing and archiving tasks, including generating article DOIs and applying for the journal’s ISSN upon eligibility
 
 UVM Press can recommend outside designers and creative professionals on a paid, case-by-case basis to create specialized content, including photography, illustration, and multimedia. 
