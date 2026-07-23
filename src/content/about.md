@@ -59,11 +59,11 @@ This license applies to all digital and printed versions of UVM Press titles. Wh
 
 ## Our Production Processes
 
-The UVM Press partners with Michigan Publishing Services to produce our books and journals.
+The UVM Press partners with [Michigan Publishing Services](https://services.publishing.umich.edu/) to produce our books and journals.
 
 UVM Press books are published on Michigan Publishing Services’ digital publishing platform, Fulcrum. After UVM Press personnel complete in-house editing, proofreading, and file preparation, we transmit final manuscript materials to Michigan Publishing Services for final copyediting, typesetting, design, EPUB and PDF file creation, and accessibility feature integration. Each title is made available on the UVM Press website for free digital download as an accessible ePUB, to be read on a digital device equipped with eReader software, and as an accessible PDF file, which can be read on a digital device or printed by a local printer. Readers also have the option to purchase a print-on-demand copy of any book title and have it shipped to a specified address. Secure payment processing, book printing, and shipping are handled by the Chicago Distribution Center, a hub for more than 120 small scholarly publishers. 
 
-UVM Press journals are published with Janeway, an open-source submission, editorial management and publishing platform created and maintained by the Open Library of Humanities, based at Birkbeck, University of London. All submissions are screened for plagiarism and originality using the CrossRef SimilarityCheck tool. Articles accepted for publication by the journal’s editors are forwarded to UVM Press staff for final copyediting, typesetting, proofreading, and digital publication. Published articles are made available to readers as accessible online text as well as downloadable, printable PDFs. Upon publication, each article is assigned a unique Digital Object Identifier (DOI) through CrossRef and preserved via the Internet Archive.
+UVM Press journals are published with [Janeway](https://janeway.systems/), an open-source submission, editorial management and publishing platform created and maintained by the [Open Library of Humanities](https://www.openlibhums.org/), based at Birkbeck, University of London. All submissions are screened for plagiarism and originality using the CrossRef SimilarityCheck tool. Articles accepted for publication by the journal’s editors are forwarded to UVM Press staff for final copyediting, typesetting, proofreading, and digital publication. Published articles are made available to readers as accessible online text as well as downloadable, printable PDFs. Upon publication, each article is assigned a unique Digital Object Identifier (DOI) through CrossRef and preserved via the Internet Archive.
 
 ## Accessibility
 
@@ -75,8 +75,7 @@ The UVM Press Faculty Advisory Board is a diverse group of UVM faculty, represen
 
 ### Faculty Advisory Board, Summer 2026 – Spring 2028
 
-**[Bridget Burke](https://libraries.uvm.edu/az/employee-directory/burke-bridget)**\
-Associate Professor, UVM Libraries\
+[**Bridget Burke**](https://libraries.uvm.edu/az/employee-directory/burke-bridget)Associate Professor, UVM Libraries\
 Director, Silver Special Collections Library
 
 **[Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)**\
@@ -108,11 +107,4 @@ Chair, Department of Education
 
 ### I﻿naugural Faculty Advisory Board, Spring 2024 – Spring 2026
 
-[Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)\
-[Reuben Escorpizo](https://www.uvm.edu/cnhs/rms/profile/reuben-escorpizo)\
-[Holger Hoock](https://www.uvm.edu/president/profile/holger-hoock)\
-[Lili Martin](https://www.uvm.edu/cnhs/nursing/profile/lili-martin)\
-[Donna O’Malley](https://libraries.uvm.edu/prf.php?account_id=10365)\
-[Eric Thrailkill](https://www.uvm.edu/larnermed/bios/profile/eric-thrailkill)\
-[Amy Trubek](https://www.uvm.edu/cals/nfs/profile/amy-trubek)\
-[Kimberly Vannest](https://www.uvm.edu/cess/profile/kimberly-vannest)
+Boğaç Ergene, Reuben Escorpizo, Holger Hoock, Lili Martin, Donna O’Malley, Eric Thrailkill, Amy Trubek, Kimberly Vannest
