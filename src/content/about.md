@@ -71,7 +71,7 @@ The UVM Press follows the University of Vermont’s own [Digital Accessibility C
 
 ## Faculty Advisory Board
 
-The UVM Press Faculty Advisory Board is a diverse group of UVM faculty, representing a variety of disciplines, that considers peer-reviewed book manuscripts for publication. Its members meet at least once each semester to consider book manuscripts on a rolling basis. During these meetings, the Board discusses and votes whether to publish finished books that have been vetted by the UVM Press editorial staff and endorsed by at least two outside peer reviewers. Members of the UVM Press Faculty Advisory Board are appointed for two-year, renewable terms. 
+The UVM Press Faculty Advisory Board is a diverse group of UVM faculty, representing a variety of disciplines, that considers peer-reviewed book manuscripts for publication. Its members meet at least once each semester to consider book manuscripts on a rolling basis. During these meetings, the Board discusses and votes whether to publish finished books that have been vetted by the UVM Press books editorial staff and endorsed by at least two outside peer reviewers. Faculty Advisory Board members are appointed for two-year, renewable terms. 
 
 ### Faculty Advisory Board, Summer 2026 – Spring 2028
 
@@ -106,7 +106,7 @@ Affiliate, Gund Institute for Environment
 Professor and University Scholar\
 Chair, Department of Education
 
-### **I﻿naugural Faculty Advisory Board, Spring 2024 – Spring 2026**
+### I﻿naugural Faculty Advisory Board, Spring 2024 – Spring 2026
 
 [Boğaç Ergene](https://www.uvm.edu/cas/history/profile/bogac-ergene)\
 [Reuben Escorpizo](https://www.uvm.edu/cnhs/rms/profile/reuben-escorpizo)\
