@@ -20,9 +20,7 @@ Our publishing model is built on shared responsibilities and a commitment not to
 
 ## Our Services
 
-Staffed by two editorial directors—one for books and one for journals—the UVM Press provides consultation, strategy, editorial, and production services on a case-by-case basis.
-
-The UVM Press also provides access to, training on, and support services for Janeway, the online publishing platform we use for journal article submissions, peer review, production, and publication.
+The UVM Press provides expert consultation, strategy, editorial, and production services on a case-by-case basis. For journal publishing partners, we also provide access to, training on, and support services for Janeway, the online publishing platform we use for journal article submissions, peer review, production, and publication.
 
 ## Our Honorarium Policy for Book Authors 
 
