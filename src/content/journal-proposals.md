@@ -6,14 +6,16 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-##### **The UVM Press journal** **publishing program is at capacity. While the UVM Press continues to consider proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [Aimee Diehl, journals editorial director](mailto:aimee.diehl@uvm.edu), for more information.**
+### As of 2025, the UVM Press journal publishing program is at capacity.
 
-**Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:**
+While the UVM Press continues to consider journal proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [](mailto:aimee.diehl@uvm.edu)[Aimee Diehl, journals editorial and production director](mailto:aimee.diehl@uvm.edu), for more information.
+
+#### Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:
 
 * The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
 * The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, a submission and peer review platform, digital publishing, and preservation services for the journal’s content.
 
-**The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.**
+#### The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.
 
 Potential society partners must agree to these additional requirements for the lifetime of the publication:
 
@@ -47,9 +49,9 @@ Additionally, [recent research](https://link.springer.com/article/10.1007/s11192
 
 The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
-The journals editorial director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
+The journals editorial and production director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to author approval.
 
-The journals editorial director’s services also include:
+The journals editorial and production director’s services also include:
 
 * Advising editorial boards on site structure and boilerplate content
 * Writing, copyediting, and maintaining site content and downloadable article template files
