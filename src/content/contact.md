@@ -19,10 +19,10 @@ Thomas W. Krause is the inaugural editorial director for books at the University
 
 ## Journals
 
-**Aimee Diehl, Editorial Director**[\
+**Aimee Diehl, Editorial & Production Director**[\
 Aimee.Diehl@uvm.edu](mailto:Aimee.Diehl@uvm.edu)
 
-A professional writer-editor, project manager, and creative consultant, Aimee Diehl led the multi-year, diamond open access journal publishing project that laid the groundwork for re-establishing the University of Vermont Press in June 2023. She is the inaugural editorial director of UVM Press journals, a position that allows her to advocate for equitable, accessible publishing while collaborating with diverse scholars throughout North America. Aimee has more than 30 years of organizational and higher education strategic communications experience, most recently at Middlebury College. She holds an M.A. in communications from Marquette University and a B.A. in journalism from the University of Wisconsin-Whitewater.
+A professional writer-editor, project manager, and creative consultant, Aimee Diehl led the multi-year, diamond open access journal publishing project that laid the groundwork for re-establishing the University of Vermont Press in June 2023. She is the inaugural editorial and production director for UVM Press journals, a position that allows her to advocate for equitable, accessible publishing while collaborating with diverse scholars throughout North America. Aimee has more than 30 years of organizational and higher education strategic communications experience, most recently at Middlebury College. She holds an M.A. in communications from Marquette University and a B.A. in journalism from the University of Wisconsin-Whitewater.
 
 ## S﻿tudent Employees
 
