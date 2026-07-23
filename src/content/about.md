@@ -85,7 +85,7 @@ Professor of History, College of Arts and Sciences
 Clinical Professor, College of Nursing and Health Sciences 
 
 **[Bryn Geffert](https://www.uvm.edu/cas/history/profile/bryn-geffert)**\
-Professor of History
+Professor of History, College of Arts and Sciences
 
 **[Lili Martin](https://www.uvm.edu/cnhs/nursing/profile/lili-martin)**\
 Clinical Associate Professor, College of Nursing and Health Sciences 
