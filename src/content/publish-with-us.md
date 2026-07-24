@@ -20,7 +20,7 @@ Our publishing model is built on shared responsibilities and a commitment not to
 
 ## Our Services
 
-The UVM Press provides expert consultation, strategy, editorial, and production services on a case-by-case basis. For journal publishing partners, we also provide access to, training on, and support services for [Janeway](https://janeway.systems/index), the online publishing platform we use for journal article submissions, peer review, production, and publication.
+The UVM Press provides expert consultation, strategy, editorial, and production services for each publishing project. For journal publishing partners, we also provide access to, training on, and support services for [Janeway](https://janeway.systems/index), the online publishing platform we use for journal article submissions, peer review, production, and publication.
 
 ## Books Policies
 
