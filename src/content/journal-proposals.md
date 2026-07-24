@@ -10,26 +10,26 @@ The UVM Press partners with scholarly societies and their appointed representati
 
 While the UVM Press continues to consider journal proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [](mailto:aimee.diehl@uvm.edu)[Aimee Diehl, journals editorial and production director](mailto:aimee.diehl@uvm.edu), for more information.
 
-#### Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:
+##### Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:
 
 * The society and its appointed representatives provide subject-area expertise, appoint editorial personnel, populate and sustain the editorial board, and maintain responsibility for all editorial tasks, including soliciting, reviewing, copyediting, and approving manuscripts for publication.
-* The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, a submission and peer review platform, digital publishing, and preservation services for the journal’s content.
+* The UVM Press collaborates with and advises the society’s appointed personnel, and provides diamond open access publishing expertise, a submission and peer review platform, digital typesetting and publishing, and preservation services for the journal’s content.
 
-#### The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.
+##### The UVM Press journal publishing program is built on shared responsibilities and a commitment not to profit, in any way, from published material.
 
 Potential society partners must agree to these additional requirements for the lifetime of the publication:
 
 * Publish all journal content under a diamond open access model, without article processing fees, advertising, subscription fees, or membership requirements.
 * Copyright work through Creative Commons licenses, which allow free sharing of content within the rules of the chosen license.
 * Utilize only the publishing platform and resources provided by UVM Press.
-* Engage in a fair, rigorous peer review process, including identifying and communicating with expert reviewers for each manuscript.
+* Engage in a fair, rigorous peer review process, including identifying and engaging with expert reviewers for each manuscript.
 * Publish born-digital materials that are readable online and accessible to users with a wide range of abilities, with an option for authors and readers to download and print articles.
 * Appoint and sustain a diverse editorial board, a subset of which makes up the journal subcommittee, to complete the work of developing, launching, and maintaining continuous publication of the journal. 
 * Maintain a rolling publication schedule.
 
 UVM Press journal partnerships begin with a proposal process and are formalized with a Memorandum of Understanding signed by representatives of the society and of the UVM Press.
 
-## The Benefits of Diamond Open Access Journal Publishing with the UVM Press
+### The Benefits of Diamond Open Access Journal Publishing with the UVM Press
 
 By partnering with the UVM Press, scholars and societies become active participants in the international open access movement to make information sharing faster, more equitable, and more sustainable. Societies and journals also benefit directly in these ways:
 
@@ -45,7 +45,7 @@ Additionally, [recent research](https://link.springer.com/article/10.1007/s11192
 
 **UVM Press journal publishing partners do not pay for publishing support services that fall within the scope of a partnership agreement.** Services outside the scope of this agreement include contracted services provided by vendors outside UVM, such as work by designers and creative professionals, migration of print or online journal content, and custom coding or open-source platform personalization. Other outside services may include language translation services or non-English-language editing. Costs for these services are borne by the journal.
 
-## The UVM Press Publishing Team
+### The UVM Press Publishing Team
 
 The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
