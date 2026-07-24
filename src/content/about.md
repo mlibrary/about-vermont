@@ -6,7 +6,7 @@ title: About the University of Vermont Press
 
 The UVM Press is a diamond open access, born-digital university press that publishes peer-reviewed journals, books, and special projects in support of the university’s distinctive research strengths—the health of our environment and our societies.
 
-We support the fundamental mission of all academic libraries—making knowledge and information freely available and readily accessible to everyone in need—by providing a free alternative to the current, inequitable scholarly publishing system, which passes on its costs to researchers and readers. Through the UVM Press, the University of Vermont Libraries are creating new ways for local and global patrons to access information. We are also participants in the global movement to develop sustainable practices in scholarly publication.
+We support the fundamental mission of all academic libraries: to make knowledge and information freely available and readily accessible to everyone in need. By providing a free alternative to the current scholarly publishing system, which passes on its costs to researchers and readers, the UVM Press and the University of Vermont Libraries are creating new ways for local and global patrons to access information. We are also participants in the global movement to develop equitable, sustainable practices for scholarly publication.
 
 #### The UVM Press serves the community.
 
