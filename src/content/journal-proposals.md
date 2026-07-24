@@ -47,7 +47,7 @@ Additionally, [recent research](https://link.springer.com/article/10.1007/s11192
 
 ### The UVM Press Publishing Team
 
-The UVM Press employs experienced professionals with writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
+The UVM Press employs experienced professionals with extensive writing, editing, creative and strategy consulting, project management, and open access publishing expertise.
 
 The journals editorial and production director collaborates with the journal’s appointed editorial board to develop a content strategy, mission/vision, and author guidelines consistent with a publication’s scope, then creates editorial and production workflows compatible with both the board’s capacity and the journal’s rolling publication schedule. Once the journal’s website is live and accepting submissions, she monitors article processing times to ensure efficient turnaround. During production, she provides an additional level of editorial quality control through light copyediting and final proofreading of articles prior to digital typesetting, proof production, and author approval.
 
