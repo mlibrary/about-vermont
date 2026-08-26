@@ -15,35 +15,26 @@ module.exports = {
       },
     },    
     {
-      resolve: `gatsby-plugin-gtag`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // your google analytics tracking id
-        trackingId: `G-8KN70N94ES`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: false,
+        trackingIds: ["G-8KN70N94ES"],
+        pluginConfig: { head: false },
       },
     },
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        precision: 6
-      }
+        sassOptions: {
+          quietDeps: true,
+          silenceDeprecations: ["import", "global-builtin", "color-functions"],
+        },
+      },
     },
     {
       resolve: `gatsby-plugin-env-variables`,
       options: {
-        whitelist: ["BRANCH"]
+        allowList: ["BRANCH"]
       },
-    },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
-        enableIdentityWidget: false,
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      }
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -62,6 +53,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-decap-cms`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -81,12 +73,6 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          {
-            resolve: 'gatsby-remark-relative-images',
-            // options: {
-            //   name: 'assets',
-            // },
-          },
           {
             resolve: 'gatsby-remark-images',
             options: {

@@ -144,3 +144,22 @@ collections:
           - { name: templateKey, label: "Template Key", widget: hidden, default: publish-page }
           - { name: title, label: Support }
           - { name: body, label: Body, widget: markdown }
+      - label: "Slideshow"
+        name: "slideshowSection"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Accessible label for the carousel", name: "label", widget: "string", default: "Featured content", hint: "Describes the slideshow as a whole to screen reader users." }
+          - label: "Slides"
+            name: "slides"
+            widget: "list"
+            max: 5
+            min: 0
+            summary: "{{fields.heading}}"
+            fields:
+              - { label: "Image", name: "image", widget: "image", required: false, media_folder: "/static/assets", public_folder: "/assets" }
+              - { label: "Image alt text", name: "alt", widget: "string", required: false, hint: "Describe the image for screen reader users. Leave blank if the image is purely decorative." }
+              - { label: "Heading", name: "heading", widget: "string", required: false }
+              - { label: "Body", name: "body", widget: "markdown", required: false }
+              - { label: "Button label", name: "buttonLabel", widget: "string", required: false }
+              - { label: "Button URL", name: "buttonUrl", widget: "string", required: false }

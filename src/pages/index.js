@@ -2,8 +2,9 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import {graphql, Link} from "gatsby"
+import { graphql, Link } from "gatsby"
 
+import Slideshow from "../components/slideshow"
 import BookList from "../components/books/bookList"
 import JournalList from "../components/journals/journalList"
 import Tagline from "../components/tagline"
@@ -15,6 +16,17 @@ export const IndexQuery = graphql`
 query {
   home: markdownRemark(frontmatter: { templateKey: { eq: "home-page" } }) {
     frontmatter {
+      slideshowSection {
+        label
+        slides {
+          image
+          alt
+          heading
+          bodyHtml
+          buttonLabel
+          buttonUrl
+        }
+      }
       taglineSection {
         text
         buttonLabel
@@ -41,10 +53,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "book" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
@@ -66,10 +75,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "journal" } }
     },
-    sort: {
-      fields: frontmatter___orderOnPage,
-      order: ASC
-    }
+    sort: { frontmatter: { orderOnPage: ASC } }
   ) {
     edges {
       node {
@@ -91,10 +97,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "news" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: DESC
-    },
+    sort: { frontmatter: { date: DESC } },
     limit: 3
   ) {
     edges {
@@ -116,10 +119,7 @@ query {
     filter: {
       frontmatter: { templateKey: { eq: "conference" } }
     },
-    sort: {
-      fields: frontmatter___date,
-      order: ASC
-    },
+    sort: { frontmatter: { date: ASC } },
     limit: 6
   ) {
     edges {
@@ -140,7 +140,8 @@ query {
 }
 `
 
-const IndexPage = ({data}) => {
+const IndexPage = ({ data }) => {
+  const slideshow = data.home.frontmatter.slideshowSection
   const tagline = data.home.frontmatter.taglineSection
   const firstCallToAction = data.home.frontmatter.firstCallToActionSection
   const secondCallToAction = data.home.frontmatter.secondCallToActionSection
@@ -153,13 +154,26 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <section className="top-tagline">
+      <section className="top-tagline pb-4 pt-4 mb-4">
         <div className="container d-flex">
           <div className="col-md-12 d-flex justify-content-center">
-            <span className="">Free for readers. Free for authors. Free for collaborators.</span>
+            <span className="roboto">Free for readers. Free for authors. Free for collaborators.</span>
           </div>
         </div>
       </section>
+      
+      {slideshow?.slides?.length > 0 && (
+        <div className="container">
+          <Slideshow
+            label={slideshow.label}
+            slides={slideshow.slides.map(slide => ({
+              ...slide,
+              body: slide.bodyHtml,
+            }))}
+          />
+        </div>
+      )}
+      
       <section className="books-container container">
           <BookList books={books} />
           <div className="row mt-4">

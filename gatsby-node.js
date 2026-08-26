@@ -57,34 +57,77 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   })
 }
 
-const { fmImagesToRelative } = require('gatsby-remark-relative-images');
-
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  fmImagesToRelative(node);
+  const { createNodeField } = actions
 
-  const { createNodeField } = actions;
   if (node.internal.type === `MarkdownRemark`) {
-
-    // HELIO-3193
-    // frontmatter cover paths need to be corrected
+    // HELIO-3193: normalize frontmatter cover paths to /assets/...
     if (node.frontmatter.cover) {
-      console.log("OLDPATH", node.frontmatter.cover)
-      console.log("FIXPATH", node.frontmatter.cover.replace(/^.*assets/, "/assets"))
       createNodeField({
         node,
         name: `cover`,
-        //value: path.join("/", node.frontmatter.cover)
-        //value: node.frontmatter.cover
-        value: node.frontmatter.cover.replace(/^.*assets/, "/assets")
+        value: node.frontmatter.cover.replace(/^.*assets/, "/assets"),
       })
     }
-    // end HELIO-3193
 
-    const value = createFilePath({ node, getNode });
+    const value = createFilePath({ node, getNode })
     createNodeField({
       name: `slug`,
       node,
       value,
-    });
+    })
   }
+}
+
+// Replaces gatsby-remark-relative-images:
+// resolve frontmatter.cover to the matching File node so childImageSharp works.
+exports.createSchemaCustomization = ({ actions, schema }) => {
+  const { createTypes } = actions
+
+  createTypes([
+    schema.buildObjectType({
+      name: `MarkdownRemarkFrontmatterSlideshowSectionSlides`,
+      fields: {
+        bodyHtml: {
+          type: `String`,
+          resolve: async (source, args, context, info) => {
+            if (!source.body) return null
+            const transformer = require("gatsby-transformer-remark")
+            // Simplest reliable path: render with a standalone markdown parser
+            const { remark } = await import("remark")
+            const remarkHtml = (await import("remark-html")).default
+            const file = await remark().use(remarkHtml).process(source.body)
+            return String(file)
+          },
+        },
+      },
+      extensions: { infer: true },
+    }),
+    schema.buildObjectType({
+      name: `MarkdownRemarkFrontmatter`,
+      fields: {
+        cover: {
+          type: `File`,
+          resolve: (source, args, context) => {
+            if (!source.cover) return null
+
+            // Strip everything up to and including "assets" and match on
+            // the remaining relative path.
+            const relative = source.cover.replace(/^.*assets\//, "")
+
+            return context.nodeModel
+              .getAllNodes({ type: `File` })
+              .find(
+                file =>
+                  file.relativePath === relative ||
+                  file.relativePath.endsWith(`/${relative}`) ||
+                  file.base === path.basename(relative)
+              )
+          },
+        },
+      },
+      interfaces: [`Node`],
+      extensions: { infer: true },
+    }),
+  ])
 }
