@@ -1,13 +1,6 @@
-// colors and theming
-$theme-colors: (
-  "primary": #00313C,
-  "secondary": #B9C7C2,
-  "muted": #616970
-);
-
-
-@import "../bootstrap/scss/bootstrap";
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@use "theme" as *;
+@use "../bootstrap/scss/bootstrap" with ($theme-colors: $theme-colors);
+@use "slideshow";
 
 // typography
 @mixin lora {
@@ -29,16 +22,6 @@ $theme-colors: (
 body {
   @include lora;
 }
-
-// colors
-$vermont-brand-color: #154734;
-$vermont-accent-color: #00313C;
-$vermont-light-blue: #64dfeb;
-$vermont-link: #2077B6;
-$vermont-border: #707070;
-$vermont-dark-grey: #333333;
-$vermont-light-grey: #F7F7F7;
-$vermont-black-80: #26292C;
 
 h1,
 h2,
@@ -162,7 +145,6 @@ p a.btn {
 
 // page
 .page-container {
-  padding-top: 2rem;
   padding-bottom: 5rem;
 }
 
@@ -186,7 +168,8 @@ p a.btn {
 // home
 .top-tagline {
   font-size: 1.5rem;
-  padding-bottom: 1rem;
+  background-color: $vermont-brand-color;
+  color: #fff;
 }
 
 .books-container {

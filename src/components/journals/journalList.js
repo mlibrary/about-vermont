@@ -5,7 +5,7 @@ const JournalList = ({journals}) => {
 
   return (
     <div>
-      <h2 className="sr-only">Recent Journals</h2>
+      <h2>Recent Journals</h2>
       <div className="row book-card-list journals">
         {
           journals.map(({node}) => {
