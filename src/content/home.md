@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 slideshowSection:
-  label: Featured books and news
+  label: Featured books, journals, and news
   slides:
     - image: /assets/vermont-background.jpg
       alt: Treelines and historic buildings with the Green Mountains in the distance.
