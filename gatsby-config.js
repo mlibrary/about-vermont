@@ -53,7 +53,14 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-decap-cms`,
+    {
+      resolve: `gatsby-plugin-decap-cms`,
+      options: {
+        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
+        enableIdentityWidget: false,
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      }
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
