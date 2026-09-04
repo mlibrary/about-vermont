@@ -6,7 +6,7 @@ const BookList = ({books}) => {
 
   return (
     <div>
-      <h2 className="mt-0">Recent Books</h2>
+      <h2 className="pt-1">Recent Books</h2>
       
       <div className="book-card-list">
         {featuredBooks.map(({node}) => (

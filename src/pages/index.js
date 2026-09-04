@@ -174,7 +174,8 @@ const IndexPage = ({ data }) => {
         </div>
       )}
       
-      <section className="books-container container">
+      <section className="books-container">
+        <div className="container">
           <BookList books={books} />
           <div className="row mt-4">
             <div className="col-md-12">
@@ -183,8 +184,6 @@ const IndexPage = ({ data }) => {
               </p>
             </div>
           </div>
-        </section>
-        <section className="books-container container">
           <JournalList journals={journals} />
           <div className="row mt-4">
             <div className="col-md-12">
@@ -192,6 +191,7 @@ const IndexPage = ({ data }) => {
                 <a href="/journals">Browse our journals</a>
               </p>
             </div>
+          </div>
           </div>
         </section>
         <section className="tagline-container">
