@@ -11,21 +11,34 @@ const Book = ({cover, book}) => {
   } = book
 
   return (
-    <div className="card mb-3 book-card">
-      <div className="row">
-        <div className="col-md-4">
-          <img src={cover} alt={`cover of ${title}`} className="card-img m-3" />
+
+    <article className="card book-card">
+      {cover && (
+        <div className="book-card-image">
+          <img src={cover} alt={`Cover of ${title}`} className="card-img-top" />
         </div>
-        <div className="col-md-8">
-          <div className="card-body">
-            <h3 id={`book${orderOnPage}`} className="card-title">{title}</h3>
-            <p className="card-subtitle text-muted h6">{author}</p>
-            <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn" aria-describedby={`book${orderOnPage}`} href={readLink}>Read free online</a>
-          </div>
-        </div>
+      )}
+
+      <div className="card-body">
+        <h3 id={`book${orderOnPage}`} className="card-title">
+          {title}
+        </h3>
+
+        {author && <p className="card-subtitle text-muted h6">{author}</p>}
+
+        {description && <p className="card-text">{description}</p>}
+
+        {readLink && (
+          <a
+            className="card-link btn btn-secondary"
+            aria-describedby={`book${orderOnPage}`}
+            href={readLink}
+          >
+            Read free online
+          </a>
+        )}
       </div>
-    </div>
+    </article>
 
   )
 }

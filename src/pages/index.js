@@ -223,7 +223,7 @@ const IndexPage = ({ data }) => {
         </section>        
         <section className="news-events-container container">
           <div className="row justify-content-around">
-            <div className="news-container col-lg-5">
+            <div className="news-container col-lg-12">
               <h2>News</h2>
               <NewsList news={news} />
               <div className="row mt-4">
@@ -233,18 +233,7 @@ const IndexPage = ({ data }) => {
                   </p>
                 </div>
               </div>
-            </div>
-            <div className="events-container col-lg-5">
-              <h2>Conferences and Events</h2>
-              <ConferenceList conferences={conferences} />
-              <div className="row mt-4">
-                <div className="col-md-12">
-                  <p className="text-right">
-                    <Link to="/conferences">Display all conferences</Link>
-                  </p>
-                </div>
-              </div>
-            </div>
+            </div>            
           </div>
         </section>
     </Layout>

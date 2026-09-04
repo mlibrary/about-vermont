@@ -1,32 +1,36 @@
 import React from "react"
 // import Img from "gatsby-image"
 
-const Journal = ({cover, journal}) => {
-  const {
-    title,
-    author,
-    readLink,    
-    description,
-    orderOnPage
-  } = journal
+const JournalCard = ({ cover, journal }) => {
+  const { title, readLink, description, orderOnPage } = journal
 
   return (
-    <div className="card mb-3 book-card journal">
-      <div className="row">
-        <div className="col-md-4">
-          <img src={cover} alt={`cover of ${title}`} className="card-img m-3" />
+    <article className="card journal-card">
+      {cover && (
+        <div className="journal-card-image">
+          <img src={cover} alt={`Cover of ${title}`} className="card-img-top" />
         </div>
-        <div className="col-md-8">
-          <div className="card-body">
-            <h3 id={`journal${orderOnPage}`} className="card-title">{title}</h3>            
-            <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn" aria-describedby={`journal${orderOnPage}`} href={readLink}>Read free online</a>            
-          </div>
-        </div>
-      </div>
-    </div>
+      )}
 
+      <div className="card-body">
+        <h3 id={`journal${orderOnPage}`} className="card-title">
+          {title}
+        </h3>
+
+        {description && <p className="card-text">{description}</p>}
+
+        {readLink && (
+          <a
+            className="card-link btn btn-secondary"
+            aria-describedby={`journal${orderOnPage}`}
+            href={readLink}
+          >
+            Read free online
+          </a>
+        )}
+      </div>
+    </article>
   )
 }
 
-export default Journal
+export default JournalCard

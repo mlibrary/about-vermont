@@ -1,23 +1,22 @@
 import React from "react"
 import JournalCard from "./journalCard"
 
-const JournalList = ({journals}) => {
+const JournalList = ({ journals }) => {
+  const featuredJournals = journals.slice(0, 3)
 
   return (
     <div>
-      <h2>Recent Journals</h2>
-      <div className="row book-card-list journals">
-        {
-          journals.map(({node}) => {
-            if (Array(1,2).includes(node.frontmatter.orderOnPage)) {
-              return (
-                <JournalCard key={node.id} cover={node.fields.cover} journal={node.frontmatter} />
-              )
-            } else {
-              return null
-            }
-          })
-        }
+      <h2 className="mt-0">Our Journals</h2>
+
+      <div className="journal-card-list">
+        {featuredJournals.map(({ node }) => (
+          <div className="journal-card-container" key={node.id}>
+            <JournalCard
+              cover={node.fields.cover}
+              journal={node.frontmatter}
+            />
+          </div>
+        ))}
       </div>
     </div>
   )
