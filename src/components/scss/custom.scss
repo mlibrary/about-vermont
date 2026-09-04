@@ -188,24 +188,44 @@ p a.btn {
     flex: 1 1 0;
     min-width: 0;
   }
+
+  .card {
+    border: none;
+  }
   
   .journal-card, 
   .book-card {
     display: flex;
     flex-direction: column;
     width: 100%;
+    min-width: 0;
     height: 100%;
-    max-height: 500px;
     overflow: hidden;
-    background-color: $vermont-light-grey;
 
-    .journal-card-image, 
+    .journal-card-image,
     .book-card-image {
-      // A shorter cover area; retains the image's natural proportions.
+      display: flex;
       flex: 0 0 225px;
-      aspect-ratio: 3 / 4;
+      align-items: center;
+      justify-content: center;
       overflow: hidden;
       background-color: #fff;
+
+      .card-cover-link {
+        flex: 0 0 225px;
+        color: inherit;
+        text-decoration: none;
+
+        &:hover .card-img-top {
+          opacity: 0.85;
+        }
+
+        &:focus-visible {
+          outline: 3px solid $vermont-accent-color;
+          outline-offset: -3px;
+        }
+      }
+
       @media screen and (max-width: 767px) {
         flex-basis: 250px;
       }
@@ -221,24 +241,101 @@ p a.btn {
 
     .card-body {
       display: flex;
-      flex: 1;
-      flex-direction: column;
-      min-height: 0;
-      overflow: auto;
+      flex: 1 1 auto;
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem 1.5rem;
+    }
+
+    .card-details-button {
+      width: auto;
+      min-height: 44px;
+      padding-right: 1.25rem;
+      padding-left: 1.25rem;
     }
 
     .card-title {
-      margin-top: 0;
+      margin: 0;
+      color: $vermont-black-80;
       font-size: 1.25rem;
     }
 
-    .card-text {
-      font-size: 0.9rem;
+    .card-details {
+      border-top: 1px solid $vermont-border;
+
+      summary {
+        @include roboto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 44px;
+        padding: 0.75rem 1.5rem;
+        color: $vermont-link;
+        cursor: pointer;
+        font-weight: 600;
+        list-style: none;
+
+        &::-webkit-details-marker {
+          display: none;
+        }
+
+        &::after {
+          flex: 0 0 auto;
+          margin-left: 1rem;
+          content: "+";
+          font-size: 1.5rem;
+          line-height: 1;
+        }
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      &[open] summary::after {
+        content: "−";
+      }
+
+      
     }
 
-    .btn {
-      align-self: flex-start;
-      margin-top: auto;
+    // Creates a slide-like reveal without JavaScript.
+    .card-details-content {
+      display: grid;
+      grid-template-rows: 0fr;
+      transition: grid-template-rows 200ms ease-in-out;
+    }
+
+    .card-details[open] .card-details-content {
+      grid-template-rows: 1fr;
+    }
+
+    .card-details-inner {
+      min-height: 0;
+      overflow: hidden;
+      padding: 0 1.5rem;
+    }
+
+    .card-details[open] .card-details-inner {
+      padding-bottom: 1.25rem;
+    }
+
+    .card-subtitle,
+    .card-text {
+      margin: 0;
+    }
+
+    .card-subtitle {
+      @include roboto;
+      margin-bottom: 0.75rem;
+      color: #616970;
+      font-size: 0.95rem;
+      font-weight: 600;
+    }
+
+    .card-text {
+      font-size: 0.95rem;
+      line-height: 1.6;
     }
   }
 }
@@ -305,12 +402,46 @@ p a.btn {
   background-color: $vermont-accent-color;
   color: #fff;
 
-  .author-container, .newsletter-container, .library-container {
-    margin: 15px 0;
+  .row {
+    row-gap: 1.5rem;
   }
 
-}
+  .cta-item {
+    display: flex;
+    min-width: 0;
+  }
 
+  .call-to-action {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-items: center;
+    min-width: 0;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .call-to-action-description {
+    width: 100%;
+    margin-bottom: 1.25rem;
+    overflow-wrap: anywhere;
+  }
+
+  .btn {
+    // Prevent long CMS-provided labels from exceeding the column width.
+    max-width: 100%;
+    min-height: 44px;
+    overflow-wrap: anywhere;
+    align-content: center;
+  }
+
+  @media screen and (min-width: 768px) {
+    .call-to-action {
+      justify-content: space-between;
+      height: 100%;
+    }
+  }
+}
 
 .news-events-container {
   padding-top: 3rem;
@@ -534,6 +665,94 @@ p a.btn {
   .card-img {
     width: auto;
   }
+}
+
+.card-modal-backdrop {
+  position: fixed;
+  z-index: 1050;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  overflow-y: auto;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.card-modal {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  width: min(100%, 760px);
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  background-color: $vermont-light-grey;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.35);
+
+  @media screen and (min-width: 768px) {
+    grid-template-columns: minmax(220px, 1fr) minmax(0, 1.25fr);
+  }
+}
+
+.card-modal-close {
+  position: absolute;
+  z-index: 1;
+  top: 0.75rem;
+  right: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid $vermont-border;
+  border-radius: 0;
+  background-color: #fff;
+  color: $vermont-black-80;
+  cursor: pointer;
+  font-size: 2rem;
+  line-height: 1;
+
+  &:hover {
+    background-color: $vermont-brand-color;
+    color: #fff;
+  }
+}
+
+.card-modal-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 280px;
+  padding: 2rem;
+  background-color: #fff;
+
+  img {
+    display: block;
+    width: 100%;
+    max-height: 420px;
+    object-fit: contain;
+  }
+}
+
+.card-modal-content {
+  padding: 3.75rem 1.5rem 1.5rem;
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.75rem;
+  }
+}
+
+.card-modal-author {
+  @include roboto;
+  margin-bottom: 1rem;
+  color: #616970;
+  font-weight: 600;
+}
+
+.card-modal-description {
+  line-height: 1.6;
 }
 
 

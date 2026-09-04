@@ -209,13 +209,13 @@ const IndexPage = ({ data }) => {
         <section className="cta-container">
           <div className="container">
             <div className="row">
-              <div className="cta-1-container col-sm">
+              <div className="cta-item col-12 col-md-4">
                 <CallToAction callToAction={firstCallToAction} />
               </div>
-              <div className="cta-2-container col-sm">
+              <div className="cta-item col-12 col-md-4">
                 <CallToAction callToAction={secondCallToAction} />
               </div>
-              <div className="cta-3-container col-sm">
+              <div className="cta-item col-12 col-md-4">
                 <CallToAction callToAction={thirdCallToAction} />
               </div>
             </div>
