@@ -2,7 +2,7 @@
 templateKey: about-page
 title: AI Policy
 ---
-<p class="lead">The University of Vermont Press follows <a href="https://www.uvm.edu/ai">the University’s own Artificial Intelligence (AI) guidance</a>, which encourages responsible use of generative and assistive AI tools, and the <a href="https://publicationethics.org/cope-position-statements/ai-author">Authorship and AI Tools position statement</a> developed by the <a href="https://publicationethics.org/">Committee on Publication Ethics (COPE)</a>. This AI policy will be reviewed and updated regularly in response to this rapidly evolving technology.</p>
+<p class="lead">The University of Vermont Press follows <a href="https://www.uvm.edu/ai/university-wide-ai-guidance">the University’s own Artificial Intelligence (AI) guidance</a>, which encourages responsible use of generative and assistive AI tools, and the <a href="https://publicationethics.org/cope-position-statements/ai-author">Authorship and AI Tools position statement</a> developed by the <a href="https://publicationethics.org/">Committee on Publication Ethics (COPE)</a>. This AI policy will be reviewed and updated regularly in response to this rapidly evolving technology.</p>
 
 ## For Authors
 
@@ -27,4 +27,4 @@ Assistive AI features built into word processing software, such as proofreading 
 <li>University of Vermont (2026a). Generative AI guidelines for researchers. <a href="https://www.uvm.edu/ai/guidelines-researchers">https://www.uvm.edu/ai/guidelines-researchers</a></li>
 <li>University of Vermont (2026). Generative AI guidelines for staff. <a href="https://www.uvm.edu/ai/guidelines-staff">https://www.uvm.edu/ai/guidelines-staff</a></li>
 
-*P﻿osted May 4, 2026*
+*P﻿osted May 4, 2026 • Revised October 15, 2026*
