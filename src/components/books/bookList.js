@@ -6,11 +6,11 @@ const BookList = ({books}) => {
 
   return (
     <div>
-      <h2 className="pt-1">Recent Books</h2>
+      <h2 className="text-center section-heading">Recent Books</h2>
       
       <div className="book-card-list">
         {featuredBooks.map(({node}) => (
-          <div className="journal-card-container" key={node.id}>
+          <div className="book-card-container" key={node.id}>
             <BookCard
               cover={node.fields.cover}
               book={node.frontmatter}

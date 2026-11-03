@@ -10,11 +10,11 @@ const News = ({data}) => {
   return (
     <Layout>
       <SEO title="News" />
-      <div className="container page-container pt-5">
-      <h1>News</h1>
+      <div className="container page-container pt-5 news-page">
+      <h1 className="text-center section-heading">Latest News</h1>
         <div className="row justify-content-md-center">
           <div className="col-md-10">
-            <NewsList news={news} />
+            <NewsList news={news} headingLevel={2} />
           </div>
         </div>
       </div>

@@ -1,21 +1,18 @@
-import React from "react"
+import React, { useId } from "react"
 import { Link } from "gatsby"
 
 const CallToAction = ({ callToAction }) => {
   const { buttonLabel, buttonUrl, description } = callToAction
+  const descriptionId = useId()
+  const linkProps = { className: "btn btn-secondary", "aria-describedby": descriptionId }
 
   return (
     <div className="call-to-action">
-      <p className="call-to-action-description">{description}</p>
-
+      <p id={descriptionId} className="call-to-action-description">{description}</p>
       {buttonUrl?.startsWith("/") ? (
-        <Link className="btn btn-secondary" to={buttonUrl}>
-          {buttonLabel}
-        </Link>
+        <Link {...linkProps} to={buttonUrl}>{buttonLabel}</Link>
       ) : (
-        <a className="btn btn-secondary" href={buttonUrl}>
-          {buttonLabel}
-        </a>
+        <a {...linkProps} href={buttonUrl}>{buttonLabel}</a>
       )}
     </div>
   )

@@ -51,11 +51,14 @@ const BookCard = ({ cover, book }) => {
       <article className="card book-card">
         {cover && (
           <div className="book-card-image">
-            <img src={cover} alt={title} className="card-img-top" />
+            <img src={cover} alt={`Cover of ${title}`} className="card-img-top" />
           </div>
         )}
 
         <div className="card-body">
+          <h3 className="card-title">{title}</h3>
+          {author && <p className="card-subtitle">{author}</p>}
+
           <button
             ref={triggerRef}
             type="button"
@@ -111,8 +114,8 @@ const BookCard = ({ cover, book }) => {
               )}
 
               {readLink && (
-                <a className="btn btn-primary" href={readLink}>
-                  Read free online
+                <a className="btn btn-lg btn-primary" href={readLink}>
+                  Read free
                 </a>
               )}
             </div>

@@ -154,10 +154,10 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" />
-      <section className="top-tagline pb-4 pt-4 mb-4">
+      <section className="top-tagline pb-4 pt-4">
         <div className="container d-flex">
           <div className="col-md-12 d-flex justify-content-center">
-            <span className="roboto">Free for readers. Free for authors. Free for collaborators.</span>
+            <span className="lora">Free for readers. Free for authors. Free for collaborators.</span>
           </div>
         </div>
       </section>
@@ -184,6 +184,10 @@ const IndexPage = ({ data }) => {
               </p>
             </div>
           </div>
+        </div>
+      </section>
+      <section className="journals-container">
+        <div className="container">
           <JournalList journals={journals} />
           <div className="row mt-4">
             <div className="col-md-12">
@@ -221,10 +225,10 @@ const IndexPage = ({ data }) => {
             </div>
           </div>
         </section>        
-        <section className="news-events-container container">
+        <section className="news-events-container container pt-2">
           <div className="row justify-content-around">
             <div className="news-container col-lg-12">
-              <h2>News</h2>
+              <h2 className="text-center section-heading">Latest News</h2>
               <NewsList news={news} />
               <div className="row mt-4">
                 <div className="col-md-12">

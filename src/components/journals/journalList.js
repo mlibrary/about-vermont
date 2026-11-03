@@ -6,7 +6,7 @@ const JournalList = ({ journals }) => {
 
   return (
     <div>
-      <h2 className="mt-0">Our Journals</h2>
+      <h2 className="text-center mt-0 section-heading">Our Journals</h2>
 
       <div className="journal-card-list">
         {featuredJournals.map(({ node }) => (
