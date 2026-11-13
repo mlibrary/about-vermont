@@ -8,7 +8,7 @@ The UVM Press partners with scholarly societies and their appointed representati
 
 ### *As of 2025, the UVM Press journal publishing program is at capacity.*
 
-While the UVM Press continues to consider journal proposals, any partner selected for the program will be subject to a delayed start date. Please check this page for updates or contact [](mailto:aimee.diehl@uvm.edu)[Aimee Diehl, journals editorial and production director](mailto:aimee.diehl@uvm.edu), for more information.
+The UVM Press journal publishing program reached capacity in 2025. Please check this page for updates.
 
 ##### Our journal publishing program charges no fees for our services in exchange for an agreement to equal partnership:
 
