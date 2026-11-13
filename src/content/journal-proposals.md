@@ -6,7 +6,7 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-### *As of 2025, the UVM Press journal publishing program is at capacity.*
+### *The UVM Press journal publishing program is at capacity and is not reviewing new partnership proposals.*
 
 The UVM Press journal publishing program reached capacity in 2025. Please check this page for updates.
 
@@ -69,10 +69,12 @@ Outside, platform-specific professionals can be available on a paid, case-by-cas
 
 ## Proposing a Journal Partnership
 
+***The UVM Press journal publishing program reached capacity in 2025. The proposal process described below is for information only.***
+
 Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee.
 
 Proposals are reviewed on a rolling basis and those that are viable are accepted. The UVM Press then invites the society to formalize the partnership with a Memorandum of Understanding, signed by representatives of the society and of the UVM Press. The signed MOU begins the journal start-up or migration process.
 
 UVM Press journal partnerships are intended for scholarly societies and organizations. **(Student-led and student-produced journals are ineligible.)** To qualify as a partner, the journal’s editorial board and subcommittee must maintain a majority of current members that hold active faculty appointments at colleges or universities. An affiliation with the University of Vermont is not required for proposals to or publishing with the UVM Press.
 
-For more information or to request a proposal form, please email [Aimee Diehl](mailto:aimee.diehl@uvm.edu).
+**Please note:** The UVM Press is unable to grant non-partners access to our online publishing platforms.
