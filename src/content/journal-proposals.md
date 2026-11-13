@@ -69,7 +69,7 @@ Outside, platform-specific professionals can be available on a paid, case-by-cas
 
 ## Proposing a Journal Partnership
 
-***The UVM Press journal publishing program reached capacity in 2025. The proposal process described below is for information only.***
+##### **The UVM Press journal publishing program reached capacity in 2025. The proposal process described here is for information only.**
 
 Organizations interested in partnering with the UVM Press to publish a new journal or migrate an existing journal must submit a proposal for consideration by the journal evaluation committee.
 
