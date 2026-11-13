@@ -6,7 +6,7 @@ title: Journal Proposals
 
 The UVM Press partners with scholarly societies and their appointed representatives to establish new diamond open access journals or to migrate existing journals to a diamond open access publishing model. We provide consultation, strategy, and production services, as well as access to an editorial management and publishing platform, to our journal publishing partners.
 
-### *The UVM Press journal publishing program is at capacity and is not reviewing new partnership proposals.*
+### *The UVM Press journal publishing program is at capacity. We are not considering new partnership proposals.*
 
 The UVM Press journal publishing program reached capacity in 2025. Please check this page for updates.
 
@@ -77,4 +77,4 @@ Proposals are reviewed on a rolling basis and those that are viable are accepted
 
 UVM Press journal partnerships are intended for scholarly societies and organizations. **(Student-led and student-produced journals are ineligible.)** To qualify as a partner, the journal’s editorial board and subcommittee must maintain a majority of current members that hold active faculty appointments at colleges or universities. An affiliation with the University of Vermont is not required for proposals to or publishing with the UVM Press.
 
-**Please note:** The UVM Press is unable to grant non-partners access to our online publishing platforms.
+**Please note:** The UVM Press is unable to grant non-partners access to our online publishing platform.
